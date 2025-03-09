@@ -1,0 +1,42 @@
+2024-12-24 12:39:53,629 - INFO - Results directory: /srv/CLAP/temporary/2024-12-24_12-39_1_0_0_0_1.4_0.5
+2024-12-24 12:39:57,835 - INFO - Start training with following parameters: param_a: 1.4 |  param_b: 0.5 | Batch size: 16 | Epochs: 100 | lr: 0.0001 | Save model: True| MSE: False
+2024-12-24 14:39:57,781 - INFO - Validation | Loss: 0.2226 | Metrics: {'Metric': 0.143} | MSE: 3.2021
+2024-12-24 14:39:57,794 - INFO - Current learning rate: 0.0001
+2024-12-24 14:39:57,794 - INFO -  avg_loss : 0.22262588644487732 is smaller then best_loss : inf
+2024-12-24 14:39:58,404 - INFO - Model saved to /srv/CLAP/temporary/2024-12-24_12-39_1_0_0_0_1.4_0.5/model
+2024-12-24 14:39:58,406 - INFO - Epoch 1/100 | Train metrics: Metric: 0.1456 | MSE: 2.7599
+2024-12-24 16:39:44,363 - INFO - Validation | Loss: 0.2224 | Metrics: {'Metric': 0.1441} | MSE: 2.9711
+2024-12-24 16:39:44,373 - INFO - Current learning rate: 0.0001
+2024-12-24 16:39:44,373 - INFO -  avg_loss : 0.2224221066712948 is smaller then best_loss : 0.22262588644487732
+2024-12-24 16:39:46,153 - INFO - Model saved to /srv/CLAP/temporary/2024-12-24_12-39_1_0_0_0_1.4_0.5/model
+2024-12-24 16:39:46,157 - INFO - Epoch 2/100 | Train metrics: Metric: 0.1494 | MSE: 2.3094
+2024-12-24 18:40:52,161 - INFO - Validation | Loss: 0.2220 | Metrics: {'Metric': 0.1451} | MSE: 2.9107
+2024-12-24 18:40:52,171 - INFO - Current learning rate: 0.0001
+2024-12-24 18:40:52,171 - INFO -  avg_loss : 0.22200578213699576 is smaller then best_loss : 0.2224221066712948
+2024-12-24 18:40:55,577 - INFO - Model saved to /srv/CLAP/temporary/2024-12-24_12-39_1_0_0_0_1.4_0.5/model
+2024-12-24 18:40:55,581 - INFO - Epoch 3/100 | Train metrics: Metric: 0.1512 | MSE: 2.1095
+2024-12-24 20:39:44,182 - INFO - Validation | Loss: 0.2219 | Metrics: {'Metric': 0.1447} | MSE: 2.8454
+2024-12-24 20:39:44,190 - INFO - Current learning rate: 0.0001
+2024-12-24 20:39:44,190 - INFO -  avg_loss : 0.22191442791857885 is smaller then best_loss : 0.22200578213699576
+2024-12-24 20:39:45,945 - INFO - Model saved to /srv/CLAP/temporary/2024-12-24_12-39_1_0_0_0_1.4_0.5/model
+2024-12-24 20:39:45,948 - INFO - Epoch 4/100 | Train metrics: Metric: 0.1534 | MSE: 1.84
+2024-12-24 22:28:03,738 - INFO - Validation | Loss: 0.2222 | Metrics: {'Metric': 0.1441} | MSE: 3.0258
+2024-12-24 22:28:03,747 - INFO - Current learning rate: 0.0001
+2024-12-24 22:28:03,747 - INFO - Early stopping counter 1
+2024-12-24 22:28:03,750 - INFO - Epoch 5/100 | Train metrics: Metric: 0.1559 | MSE: 1.5453
+2024-12-24 23:52:54,105 - INFO - Validation | Loss: 0.2224 | Metrics: {'Metric': 0.1446} | MSE: 3.0577
+2024-12-24 23:52:54,118 - INFO - Current learning rate: 0.0001
+2024-12-24 23:52:54,118 - INFO - Early stopping counter 2
+2024-12-24 23:52:54,120 - INFO - Epoch 6/100 | Train metrics: Metric: 0.159 | MSE: 1.2201
+2024-12-25 00:50:56,583 - INFO - Validation | Loss: 0.2231 | Metrics: {'Metric': 0.1443} | MSE: 3.161
+2024-12-25 00:50:56,591 - INFO - Current learning rate: 1e-05
+2024-12-25 00:50:56,591 - INFO - Early stopping counter 3
+2024-12-25 00:50:56,593 - INFO - Epoch 7/100 | Train metrics: Metric: 0.1618 | MSE: 0.9349
+2024-12-25 01:46:01,042 - INFO - Validation | Loss: 0.2231 | Metrics: {'Metric': 0.1449} | MSE: 2.9463
+2024-12-25 01:46:01,047 - INFO - Current learning rate: 1e-05
+2024-12-25 01:46:01,047 - INFO - Early stopping counter 4
+2024-12-25 01:46:01,047 - INFO - Early stopping triggered.
+2024-12-25 01:46:01,047 - INFO - Training completed.
+2024-12-25 01:46:01,049 - INFO - Starting Test set
+2024-12-25 01:51:50,426 - INFO - Test | Loss: 0.2200 | Metrics: {'Metric': 0.1487} | MSE: 2.5218
+2024-12-25 01:51:50,490 - INFO - CSV file saved successfully at /srv/CLAP/temporary/2024-12-24_12-39_1_0_0_0_1.4_0.5/predicted_true_values_2024-12-24_12-39-57_1_0_0_0_1.4_0.5_results.csv

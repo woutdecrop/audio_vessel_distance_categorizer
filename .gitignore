@@ -1,7 +1,3 @@
-# Ignore everything inside the 3_1_Results directory in both the root and CLAP folder
-3_1_Results/*
-CLAP/3_1_Results/*
-
 # Ignore the specific .csv file in the 3_3_figures folder
 3_3_figures/*.csv
 

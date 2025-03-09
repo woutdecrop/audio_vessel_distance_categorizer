@@ -1,0 +1,49 @@
+2025-02-14 14:44:20,296 - INFO - Results directory: /srv/CLAP/temporary/2025-02-14_14-44_1_0_0_0_-1.9_0.5
+2025-02-14 14:44:23,217 - INFO - Start training with following parameters: param_a: -1.9 |  param_b: 0.5 | Batch size: 16 | Epochs: 100 | lr: 0.001 | Save model: True| MSE: True
+2025-02-14 14:44:57,079 - INFO - Validation | Loss: 0.2280 | Metrics: {'Metric': 0.1042} | MSE: 3.9864
+2025-02-14 14:44:57,101 - INFO - Current learning rate: 0.001
+2025-02-14 14:44:57,102 - INFO -  avg_loss : 0.22796961689790224 is smaller then best_loss : inf
+2025-02-14 14:44:57,854 - INFO - Model saved to /srv/CLAP/temporary/2025-02-14_14-44_1_0_0_0_-1.9_0.5/model
+2025-02-14 14:44:57,856 - INFO - Epoch 1/100 | Train metrics: Metric: 0.105 | MSE: 3.2759
+2025-02-14 14:45:28,565 - INFO - Validation | Loss: 0.2282 | Metrics: {'Metric': 0.1038} | MSE: 4.1726
+2025-02-14 14:45:28,573 - INFO - Current learning rate: 0.001
+2025-02-14 14:45:28,573 - INFO - Early stopping counter 1
+2025-02-14 14:45:28,574 - INFO - Epoch 2/100 | Train metrics: Metric: 0.1055 | MSE: 2.9257
+2025-02-14 14:46:00,787 - INFO - Validation | Loss: 0.2280 | Metrics: {'Metric': 0.1048} | MSE: 3.4789
+2025-02-14 14:46:00,803 - INFO - Current learning rate: 0.001
+2025-02-14 14:46:00,803 - INFO -  avg_loss : 0.22795086577440146 is smaller then best_loss : 0.22796961689790224
+2025-02-14 14:46:02,735 - INFO - Model saved to /srv/CLAP/temporary/2025-02-14_14-44_1_0_0_0_-1.9_0.5/model
+2025-02-14 14:46:02,738 - INFO - Epoch 3/100 | Train metrics: Metric: 0.1057 | MSE: 2.7111
+2025-02-14 14:46:36,648 - INFO - Validation | Loss: 0.2280 | Metrics: {'Metric': 0.1045} | MSE: 3.6138
+2025-02-14 14:46:36,653 - INFO - Current learning rate: 0.0001
+2025-02-14 14:46:36,654 - INFO - Early stopping counter 1
+2025-02-14 14:46:36,655 - INFO - Epoch 4/100 | Train metrics: Metric: 0.1059 | MSE: 2.5995
+2025-02-14 14:47:09,331 - INFO - Validation | Loss: 0.2280 | Metrics: {'Metric': 0.1049} | MSE: 3.3458
+2025-02-14 14:47:09,340 - INFO - Current learning rate: 0.0001
+2025-02-14 14:47:09,341 - INFO - Early stopping counter 2
+2025-02-14 14:47:09,343 - INFO - Epoch 5/100 | Train metrics: Metric: 0.1061 | MSE: 2.3706
+2025-02-14 14:47:40,745 - INFO - Validation | Loss: 0.2279 | Metrics: {'Metric': 0.1048} | MSE: 3.4008
+2025-02-14 14:47:40,751 - INFO - Current learning rate: 0.0001
+2025-02-14 14:47:40,752 - INFO -  avg_loss : 0.22788312357453075 is smaller then best_loss : 0.22795086577440146
+2025-02-14 14:47:42,766 - INFO - Model saved to /srv/CLAP/temporary/2025-02-14_14-44_1_0_0_0_-1.9_0.5/model
+2025-02-14 14:47:42,769 - INFO - Epoch 6/100 | Train metrics: Metric: 0.1062 | MSE: 2.3267
+2025-02-14 14:48:12,731 - INFO - Validation | Loss: 0.2280 | Metrics: {'Metric': 0.1049} | MSE: 3.3621
+2025-02-14 14:48:12,737 - INFO - Current learning rate: 0.0001
+2025-02-14 14:48:12,737 - INFO - Early stopping counter 1
+2025-02-14 14:48:12,739 - INFO - Epoch 7/100 | Train metrics: Metric: 0.1062 | MSE: 2.2946
+2025-02-14 14:48:44,750 - INFO - Validation | Loss: 0.2280 | Metrics: {'Metric': 0.1048} | MSE: 3.4066
+2025-02-14 14:48:44,755 - INFO - Current learning rate: 0.0001
+2025-02-14 14:48:44,755 - INFO - Early stopping counter 2
+2025-02-14 14:48:44,757 - INFO - Epoch 8/100 | Train metrics: Metric: 0.1062 | MSE: 2.2805
+2025-02-14 14:49:15,240 - INFO - Validation | Loss: 0.2279 | Metrics: {'Metric': 0.1049} | MSE: 3.3757
+2025-02-14 14:49:15,249 - INFO - Current learning rate: 1e-05
+2025-02-14 14:49:15,249 - INFO - Early stopping counter 3
+2025-02-14 14:49:15,251 - INFO - Epoch 9/100 | Train metrics: Metric: 0.1063 | MSE: 2.2558
+2025-02-14 14:49:45,429 - INFO - Validation | Loss: 0.2280 | Metrics: {'Metric': 0.1049} | MSE: 3.3424
+2025-02-14 14:49:45,435 - INFO - Current learning rate: 1e-05
+2025-02-14 14:49:45,435 - INFO - Early stopping counter 4
+2025-02-14 14:49:45,435 - INFO - Early stopping triggered.
+2025-02-14 14:49:45,435 - INFO - Training completed.
+2025-02-14 14:49:45,436 - INFO - Starting Test set
+2025-02-14 14:49:50,255 - INFO - Test | Loss: 0.2266 | Metrics: {'Metric': 0.1059} | MSE: 2.9204
+2025-02-14 14:49:50,339 - INFO - CSV file saved successfully at /srv/CLAP/temporary/2025-02-14_14-44_1_0_0_0_-1.9_0.5/predicted_true_values_2025-02-14_14-44-23_1_0_0_0_-1.9_0.5_results.csv
