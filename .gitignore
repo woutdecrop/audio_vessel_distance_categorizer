@@ -1,0 +1,16 @@
+# Ignore everything inside the 3_1_Results directory in both the root and CLAP folder
+3_1_Results/*
+CLAP/3_1_Results/*
+
+# Ignore the specific .csv file in the 3_3_figures folder
+3_3_figures/*.csv
+
+# Ignore all .ipynb_checkpoints
+3_3_figures/.ipynb_checkpoints/
+
+# Ignore all .safetensors files in the 3_1_Results/BioLingual/model/ directory
+3_1_Results/BioLingual/model/*.safetensors
+
+# Ignore specific model directories
+3_1_Results/2025-02-14_14-44_1_0_0_0_-1.9_0.5/model/
+3_1_Results/2024-12-24_12-39-57_1_0_0_0_1.4_0.5/model/

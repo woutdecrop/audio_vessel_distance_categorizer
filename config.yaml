@@ -1,0 +1,30 @@
+# Configuration file example
+duration: 10  # in seconds
+overlap: 0.2  # overlap of the chunks in %
+desired_fs: 48000  # desired sampling rate
+channel: 2  # number of channels
+log: True  # whether to log or not
+color: 'blue'  # color setting
+
+lr: 1e-5
+epochs: 10
+
+wavs_folder:  '/storage/data' 
+patience: 2
+
+
+d_valid_path: "/srv/CLAP/2_1_Data/val.txt"
+d_train_path: "/srv/CLAP/2_1_Data/train.txt"
+d_test_path: "/srv/CLAP/2_1_Data/test.txt"
+
+
+# Parameters for audio processing
+nfft: 1024  # number of FFT points
+win_len: 512  # window length
+hop_ratio: 4  # hop ratio
+normalization_style: 'mean_std'  # normalization style
+
+# Optional parameters
+min_duration: 0  # minimum duration, if not provided, it will be calculated based on nfft and desired_fs
+max_duration: 10  # maximum duration, if not provided, it will be set to half of the overall duration
+
