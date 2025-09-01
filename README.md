@@ -6,7 +6,11 @@ This repository contains the implementation of a convolutional neural network (C
 
 The dataset used in this project consists of synchronized acoustic and AIS (Automatic Identification System) data, allowing for supervised classification based on vessel presence and proximity. The model is described in:
 
-**Decrop Wout, Deneudt Klaas, Parcerisas Clea, Schall Elena, Debusschere Elisabeth, 2025. Transfer learning for distance classification of marine vessels using underwater sound. Submitted to IEEE.**
+**Paper**
+Decrop Wout, Deneudt Klaas, Parcerisas Clea, Schall Elena, Debusschere Elisabeth, 2025. Transfer learning for distance classification of marine vessels using underwater sound. https://ieeexplore.ieee.org/document/11105453
+
+**Dataset**
+AIS-annotated Hydrophone Recordings for Vessel Classification: https://doi.org/10.14284/723
 
 ---
 
