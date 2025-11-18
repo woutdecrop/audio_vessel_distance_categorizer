@@ -362,7 +362,6 @@ Grafton_15810_train/G_15810_2022-02-17_16-42-36_16-9249_Tanker_underway-using-en
 GardenCity_15811_train/G_15811_2022-02-07_19-10-54_115-214141_Fishing_underway-using-engine_6-3_922.wav 0.908
 GardenCity_15811_train/G_15811_2022-03-29_08-16-22_70-412743_Tanker_underway-using-engine_11-6_4369.wav 0.563
 Grafton_15810_train/G_15810_2022-03-29_10-34-26_212-860196_Cargo_underway-using-engine_12-4_4630.wav 0.537
-Grafton_15810_test/G_15810_2022-01-22_17-54-11_338-509511_Tanker_constrained-by-her-draught_13-7_2757.wav 0.724
 GardenCity_15811_train/G_15811_2022-03-27_11-25-34_126-777345_Cargo_underway-using-engine_13-0_3517.wav 0.648
 Grafton_28434_train/G_28434_2022-09-11_00-46-23_62-902558_Tanker_underway-using-engine_11-2_1358.wav 0.864
 GardenCity_15811_train/G_15811_2022-03-17_14-34-46_67-421925_Tanker_underway-using-engine_15-0_4970.wav 0.503
@@ -808,7 +807,6 @@ Grafton_15810_train/G_15810_2022-02-13_09-33-04_565-720938_Tanker_underway-using
 GardenCity_15811_train/G_15811_2022-02-05_09-22-51_215-715246_Cargo_underway-using-engine_11-2_2515.wav 0.749
 Grafton_28434_train/G_28434_2022-08-30_17-03-04_138-500163_Tug_underway-using-engine_6-9_3277.wav 0.672
 GardenCity_15811_train/G_15811_2022-01-28_13-12-57_262-472337_Cargo_underway-using-engine_10-1_8878.wav 0.112
-Grafton_29187_test/G_29187_2022-10-30_08-41-55_499-133207_Tanker_constrained-by-her-draught_12-6_6669.wav 0.333
 GardenCity_15811_train/G_15811_2022-03-03_04-46-43_68-450581_Fishing_underway-using-engine_5-7_1781.wav 0.822
 GardenCity_15811_train/G_15811_2022-03-07_15-15-41_180-131497_Fishing_underway-using-engine_4-5_3025.wav 0.698
 Grafton_15810_train/G_15810_2022-02-27_18-45-20_161-81568_Other_underway-using-engine_7-8_4725.wav 0.527
@@ -831,7 +829,6 @@ GardenCity_15811_train/G_15811_2022-02-21_09-58-38_136-295948_Tanker_underway-us
 GardenCity_15811_train/G_15811_2022-03-05_06-49-26_242-08523_Cargo_underway-using-engine_13-6_6922.wav 0.308
 GardenCity_15811_train/G_15811_2022-02-27_14-34-46_118-43569_Tanker_underway-using-engine_12-0_11417.wav 0.0
 GardenCity_15811_train/G_15811_2022-05-16_07-06-42_275-750226_Cargo_underway-using-engine_7-9_5104.wav 0.49
-GardenCity_15811_train/G_15811_2022-02-09_20-22-31_139-586281_Military_underway-using-engine_14-9_4911.wav 0.509
 GardenCity_15811_train/G_15811_2022-03-19_02-59-39_284-706339_Cargo_underway-using-engine_14-6_1383.wav 0.862
 Grafton_15810_train/G_15810_2022-04-10_16-52-49_423-944693_Cargo_underway-using-engine_9-8_4514.wav 0.549
 Grafton_15810_train/G_15810_2022-02-09_15-00-20_268-040488_Tanker_underway-using-engine_13-2_3828.wav 0.617
@@ -943,7 +940,6 @@ GardenCity_15811_train/G_15811_2022-01-30_12-06-29_266-860793_Cargo_underway-usi
 Grafton_28434_train/G_28434_2022-08-24_21-44-18_148-892312_Pilot_underway-using-engine_5-9_7149.wav 0.285
 Grafton_29187_train/G_29187_2022-10-28_21-28-58_79-314505_Cargo_underway-using-engine_16-2_5944.wav 0.406
 Grafton_15810_train/G_15810_2022-02-13_02-44-00_568-070362_Cargo_underway-using-engine_11-4_1342.wav 0.866
-Grafton_15810_val/G_15810_2022-03-15_15-20-47_147-600199_Tanker_constrained-by-her-draught_12-5_4559.wav 0.544
 Grafton_15810_train/G_15810_2022-03-25_18-45-20_404-330732_Cargo_underway-using-engine_13-5_3722.wav 0.628
 GardenCity_15811_train/G_15811_2022-01-20_00-46-23_136-533293_Cargo_underway-using-engine_13-9_2884.wav 0.712
 Grafton_28434_train/G_28434_2022-09-11_04-10-55_201-212362_Cargo_underway-using-engine_10-2_4569.wav 0.543
@@ -1048,7 +1044,6 @@ GardenCity_15811_train/G_15811_2022-03-09_23-52-08_62-108562_Cargo_underway-usin
 GardenCity_15811_train/G_15811_2022-02-27_04-56-57_228-835181_Tanker_underway-using-engine_11-3_9792.wav 0.021
 GardenCity_15811_train/G_15811_2022-05-14_03-50-28_157-809044_Tanker_underway-using-engine_10-5_6785.wav 0.322
 Grafton_15810_train/G_15810_2022-02-27_17-33-44_118-7761_Other_restricted-maneuverability_1-1_526.wav 0.947
-Grafton_15810_val/G_15810_2022-04-06_02-23-32_253-317981_Cargo_constrained-by-her-draught_11-6_1801.wav 0.82
 GardenCity_26981_train/G_26981_2022-06-26_10-03-44_503-633783_Cargo_underway-using-engine_11-8_5995.wav 0.401
 Grafton_15810_train/G_15810_2022-01-24_20-58-17_515-138162_Pilot_underway-using-engine_0-5_5591.wav 0.441
 Grafton_28434_train/G_28434_2022-09-09_03-04-27_88-654555_Cargo_underway-using-engine_9-1_6637.wav 0.336
@@ -1063,7 +1058,6 @@ GardenCity_15811_train/G_15811_2022-03-23_21-13-37_302-233487_Tanker_underway-us
 GardenCity_15811_train/G_15811_2022-03-23_07-09-54_186-983103_Cargo_underway-using-engine_13-5_4096.wav 0.59
 Grafton_28434_train/G_28434_2022-08-30_06-13-39_222-404527_Pilot_underway-using-engine_9-5_6204.wav 0.38
 GardenCity_15811_train/G_15811_2022-01-28_07-40-35_69-057746_Tanker_underway-using-engine_14-0_5494.wav 0.451
-GardenCity_15811_test/G_15811_2022-05-04_21-59-38_81-913588_Cargo_constrained-by-her-draught_8-4_3361.wav 0.664
 Grafton_28434_train/G_28434_2022-09-09_07-30-21_260-15038_Tanker_underway-using-engine_10-7_6899.wav 0.31
 GardenCity_15811_train/G_15811_2022-04-20_04-51-50_110-190043_Cargo_underway-using-engine_13-3_5026.wav 0.497
 Grafton_15810_train/G_15810_2022-04-20_09-02-23_422-319109_Tanker_constrained-by-her-draught_10-4_4784.wav 0.522
@@ -1209,7 +1203,6 @@ GardenCity_15811_train/G_15811_2022-02-13_10-08-52_216-557753_Cargo_underway-usi
 GardenCity_15811_train/G_15811_2022-03-09_15-41-15_207-610965_Cargo_underway-using-engine_14-4_660.wav 0.934
 Grafton_28434_train/G_28434_2022-08-24_06-08-32_116-084426_Cargo_underway-using-engine_6-7_4629.wav 0.537
 Grafton_15810_train/G_15810_2022-04-22_09-22-51_44-014775_Fishing_underway-using-engine_10-3_3642.wav 0.636
-Grafton_15810_val/G_15810_2022-04-06_02-33-46_550-261975_Cargo_constrained-by-her-draught_11-4_4533.wav 0.547
 GardenCity_15811_train/G_15811_2022-03-29_12-11-35_76-959189_Tanker_underway-using-engine_12-5_2932.wav 0.707
 GardenCity_15811_train/G_15811_2022-05-18_07-09-53_178-799624_Cargo_underway-using-engine_8-9_6202.wav 0.38
 Grafton_29187_train/G_29187_2022-10-28_03-45-21_495-742087_High-Speed-Craft_underway-using-engine_27-4_3101.wav 0.69
@@ -1390,7 +1383,6 @@ GardenCity_15811_train/G_15811_2022-03-05_03-45-21_111-379077_Cargo_underway-usi
 GardenCity_15811_train/G_15811_2022-02-01_17-28-38_85-596847_Tanker_underway-using-engine_15-1_7348.wav 0.265
 GardenCity_26981_train/G_26981_2022-06-26_14-39-52_541-383655_Tanker_underway-using-engine_14-1_4127.wav 0.587
 Grafton_15810_train/G_15810_2022-02-21_22-09-52_367-116612_Reserved_underway-using-engine_14-8_5335.wav 0.467
-Grafton_15810_val/G_15810_2022-02-11_08-11-15_392-182091_Cargo_constrained-by-her-draught_12-5_2593.wav 0.741
 GardenCity_15811_train/G_15811_2022-02-01_09-22-51_112-380906_Cargo_underway-using-engine_6-0_3560.wav 0.644
 Grafton_29187_train/G_29187_2022-11-05_18-14-38_329-904824_Cargo_underway-using-engine_9-5_5671.wav 0.433
 Grafton_28434_train/G_28434_2022-08-26_21-54-32_276-063396_Cargo_underway-using-engine_16-8_5818.wav 0.418
@@ -1498,7 +1490,6 @@ Grafton_15810_train/G_15810_2022-01-30_09-43-18_559-2497_Tanker_constrained-by-h
 Grafton_15810_train/G_15810_2022-04-04_05-27-37_500-301668_Cargo_underway-using-engine_11-6_1839.wav 0.816
 Grafton_15810_train/G_15810_2022-02-09_10-03-45_294-648301_Cargo_underway-using-engine_15-5_1874.wav 0.813
 Grafton_28434_train/G_28434_2022-08-24_20-42-57_138-88127_High-Speed-Craft_underway-using-engine_25-8_7215.wav 0.279
-Grafton_15810_val/G_15810_2022-02-11_08-21-29_86-207103_Cargo_constrained-by-her-draught_11-7_1936.wav 0.806
 Grafton_28434_train/G_28434_2022-09-05_00-31-03_222-356766_Cargo_at-anchor_0-1_8371.wav 0.163
 GardenCity_15811_train/G_15811_2022-05-02_18-40-13_86-837781_Fishing_engaged-in-fishing_2-3_7391.wav 0.261
 Grafton_29187_train/G_29187_2022-11-01_00-41-15_263-112088_Pilot_underway-using-engine_7-4_5980.wav 0.402
@@ -2053,7 +2044,6 @@ Grafton_15810_train/G_15810_2022-02-13_00-10-35_217-969805_Pilot_underway-using-
 Grafton_15810_train/G_15810_2022-02-13_06-39-13_548-592714_Pilot_underway-using-engine_0-9_6410.wav 0.359
 Grafton_15810_train/G_15810_2022-03-07_13-38-30_577-937835_Dredging_restricted-maneuverability_13-3_865.wav 0.913
 Grafton_15810_train/G_15810_2022-03-21_19-26-14_160-922177_Cargo_underway-using-engine_7-0_1608.wav 0.839
-GardenCity_15811_test/G_15811_2022-01-22_16-37-30_258-211001_Cargo_constrained-by-her-draught_11-9_6787.wav 0.321
 GardenCity_15811_train/G_15811_2022-05-06_10-08-52_213-587227_Tanker_underway-using-engine_10-6_4671.wav 0.533
 Grafton_29187_train/G_29187_2022-11-05_21-18-43_86-117031_Pilot_underway-using-engine_3-3_5370.wav 0.463
 Grafton_15810_train/G_15810_2022-03-13_08-11-15_300-511554_Pilot_moored_1-0_4908.wav 0.509
@@ -2231,7 +2221,6 @@ GardenCity_15811_train/G_15811_2022-02-13_13-33-24_190-497008_Cargo_underway-usi
 GardenCity_26981_train/G_26981_2022-06-24_13-38-30_540-815075_Cargo_underway-using-engine_10-1_6315.wav 0.368
 Grafton_15810_train/G_15810_2022-02-15_06-08-32_259-111075_Cargo_underway-using-engine_9-4_3583.wav 0.642
 Grafton_28434_train/G_28434_2022-08-24_01-42-38_158-878569_Cargo_underway-using-engine_13-2_4122.wav 0.588
-Grafton_15810_test/G_15810_2022-01-22_23-31-40_213-677082_Tanker_constrained-by-her-draught_16-3_2233.wav 0.777
 Grafton_15810_train/G_15810_2022-02-15_08-21-29_124-285704_Cargo_underway-using-engine_11-4_6277.wav 0.372
 Grafton_15810_train/G_15810_2022-01-28_00-20-49_290-255675_Tanker_underway-using-engine_12-8_3724.wav 0.628
 Grafton_15810_train/G_15810_2022-03-23_17-54-12_412-673502_Other_underway-using-engine_11-3_5854.wav 0.415
@@ -3163,13 +3152,11 @@ Grafton_15810_train/G_15810_2022-04-12_08-31-43_320-479454_Fishing_engaged-in-fi
 Grafton_15810_train/G_15810_2022-03-01_20-27-36_517-1715_Tanker_underway-using-engine_10-6_5902.wav 0.41
 Grafton_15810_train/G_15810_2022-04-30_02-23-32_11-461287_Cargo_underway-using-engine_13-8_4636.wav 0.536
 Grafton_15810_train/G_15810_2022-05-08_08-41-56_533-722928_Cargo_underway-using-engine_15-6_3940.wav 0.606
-Grafton_15810_val/G_15810_2022-04-06_02-13-19_256-675045_Cargo_constrained-by-her-draught_10-3_3961.wav 0.604
 Grafton_28434_train/G_28434_2022-09-01_02-03-05_257-732952_Cargo_constrained-by-her-draught_11-9_1690.wav 0.831
 Grafton_28434_train/G_28434_2022-08-26_06-18-45_35-831072_Other_underway-using-engine_5-8_4069.wav 0.593
 Grafton_15810_train/G_15810_2022-03-23_04-36-29_325-802442_Dredging_restricted-maneuverability_14-2_4618.wav 0.538
 Grafton_15810_train/G_15810_2022-04-28_12-47-23_420-902076_Cargo_underway-using-engine_14-9_3182.wav 0.682
 Grafton_28434_train/G_28434_2022-09-09_06-34-06_45-841136_Tanker_underway-using-engine_10-9_3138.wav 0.686
-Grafton_15810_val/G_15810_2022-02-11_13-38-31_256-682462_Tanker_constrained-by-her-draught_12-0_2164.wav 0.784
 GardenCity_15811_train/G_15811_2022-01-20_09-07-30_296-92161_Fishing_engaged-in-fishing_5-2_12253.wav 0.0
 GardenCity_15811_train/G_15811_2022-05-14_16-37-30_238-274875_Sailing_underway-using-engine_5-3_9407.wav 0.059
 Grafton_28434_train/G_28434_2022-09-07_11-51-08_116-340173_High-Speed-Craft_underway-using-engine_24-0_5317.wav 0.468
@@ -4723,7 +4710,6 @@ Grafton_15810_train/G_15810_2022-04-10_04-16-01_461-216953_Tanker_underway-using
 Grafton_15810_train/G_15810_2022-02-09_16-52-50_478-351597_Dredging_underway-using-engine_11-7_3716.wav 0.628
 Grafton_15810_train/G_15810_2022-04-08_13-18-04_525-641711_Tanker_underway-using-engine_13-4_4021.wav 0.598
 Grafton_15810_train/G_15810_2022-01-20_02-23-31_359-672582_Cargo_underway-using-engine_13-9_3203.wav 0.68
-Grafton_15810_test/G_15810_2022-01-22_23-21-26_436-738884_Tanker_constrained-by-her-draught_16-2_3727.wav 0.627
 Grafton_15810_train/G_15810_2022-05-02_06-08-32_166-186106_Other_engaged-in-fishing_4-5_1386.wav 0.861
 GardenCity_15811_train/G_15811_2022-03-05_00-05-29_279-02383_Tanker_underway-using-engine_13-8_3278.wav 0.672
 Grafton_15810_train/G_15810_2022-04-10_03-45-20_497-107359_High-Speed-Craft_underway-using-engine_25-3_2462.wav 0.754
@@ -4910,7 +4896,6 @@ GardenCity_15811_train/G_15811_2022-02-09_08-52-10_75-944397_Law-Enforcement_und
 GardenCity_15811_train/G_15811_2022-02-09_08-31-43_4-888921_Cargo_underway-using-engine_10-8_8551.wav 0.145
 GardenCity_15811_train/G_15811_2022-02-17_07-25-14_251-865147_Tanker_underway-using-engine_10-7_3824.wav 0.618
 GardenCity_15811_train/G_15811_2022-05-16_02-51-01_8-819424_Tanker_underway-using-engine_14-1_3310.wav 0.669
-GardenCity_15811_val/G_15811_2022-02-11_05-17-24_117-610039_Cargo_constrained-by-her-draught_10-8_3952.wav 0.605
 Grafton_28434_train/G_28434_2022-09-03_13-12-57_83-467807_Cargo_underway-using-engine_14-5_1716.wav 0.828
 Grafton_15810_train/G_15810_2022-02-17_04-16-02_489-664402_Cargo_underway-using-engine_11-2_7202.wav 0.28
 Grafton_29187_train/G_29187_2022-10-28_19-46-42_53-422032_Tanker_underway-using-engine_11-7_5287.wav 0.471
@@ -4949,7 +4934,6 @@ Grafton_15810_train/G_15810_2022-03-09_16-52-50_449-733212_Cargo_underway-using-
 Grafton_28434_train/G_28434_2022-08-22_17-23-31_7-592817_Other_restricted-maneuverability_0-0_595.wav 0.941
 Grafton_29187_train/G_29187_2022-11-01_05-58-18_79-195926_Pilot_underway-using-engine_6-9_3999.wav 0.6
 Grafton_15810_train/G_15810_2022-04-10_04-26-15_166-364018_Tanker_underway-using-engine_9-5_4904.wav 0.51
-Grafton_15810_val/G_15810_2022-04-06_19-16-01_151-828156_Cargo_constrained-by-her-draught_8-6_3758.wav 0.624
 Grafton_15810_train/G_15810_2022-04-02_21-49-25_365-273795_Tanker_underway-using-engine_16-0_4200.wav 0.58
 GardenCity_15811_train/G_15811_2022-02-09_21-08-32_168-710461_Cargo_underway-using-engine_12-1_6604.wav 0.34
 GardenCity_15811_train/G_15811_2022-05-06_03-45-21_164-839023_Dredging_restricted-maneuverability_3-7_6025.wav 0.398
@@ -5096,7 +5080,6 @@ Grafton_15810_train/G_15810_2022-04-22_04-16-02_108-407704_Pilot_underway-using-
 GardenCity_15811_train/G_15811_2022-03-11_12-21-49_66-59438_Cargo_underway-using-engine_10-7_7203.wav 0.28
 Grafton_29187_train/G_29187_2022-11-03_23-31-40_139-509913_Cargo_underway-using-engine_14-6_5958.wav 0.404
 GardenCity_15811_train/G_15811_2022-03-07_02-33-46_7-67958_Tanker_underway-using-engine_13-1_2646.wav 0.735
-Grafton_15810_val/G_15810_2022-04-06_19-05-47_44-719693_Cargo_constrained-by-her-draught_8-9_1706.wav 0.829
 GardenCity_15811_train/G_15811_2022-02-23_06-44-20_270-164007_Cargo_underway-using-engine_12-9_5819.wav 0.418
 Grafton_15810_train/G_15810_2022-05-06_02-03-05_88-966148_Cargo_underway-using-engine_10-9_4206.wav 0.579
 GardenCity_15811_train/G_15811_2022-03-05_06-18-46_1-529146_Tanker_underway-using-engine_10-8_4548.wav 0.545
@@ -5340,7 +5323,6 @@ GardenCity_15811_train/G_15811_2022-01-20_18-24-53_305-072402_Cargo_underway-usi
 Grafton_15810_train/G_15810_2022-02-25_10-44-40_517-283686_Dredging_restricted-maneuverability_12-5_2588.wav 0.741
 Grafton_15810_train/G_15810_2022-02-21_01-32-24_228-742456_Tanker_underway-using-engine_1-4_5136.wav 0.486
 GardenCity_15811_train/G_15811_2022-01-28_13-43-38_273-263207_Cargo_underway-using-engine_9-7_2247.wav 0.775
-Grafton_15810_val/G_15810_2022-03-15_15-20-47_517-798139_Tanker_constrained-by-her-draught_12-3_3973.wav 0.603
 Grafton_15810_train/G_15810_2022-05-06_07-20-07_597-053052_Tug_underway-using-engine_10-5_809.wav 0.919
 Grafton_15810_train/G_15810_2022-04-04_06-28-59_1-060548_Other_engaged-in-fishing_3-6_5135.wav 0.486
 Grafton_29187_train/G_29187_2022-11-05_02-54-12_54-121042_Tanker_underway-using-engine_12-3_2207.wav 0.779
@@ -5681,7 +5663,6 @@ Grafton_28434_train/G_28434_2022-09-03_08-41-56_135-665054_Cargo_underway-using-
 Grafton_15810_train/G_15810_2022-05-06_13-58-58_175-941173_Pilot_underway-using-engine_12-2_5979.wav 0.402
 GardenCity_15811_train/G_15811_2022-05-16_08-43-51_229-438756_Reserved_underway-using-engine_9-2_3140.wav 0.686
 GardenCity_15811_train/G_15811_2022-03-07_05-17-24_15-806982_Cargo_underway-using-engine_14-1_4913.wav 0.509
-GardenCity_15811_val/G_15811_2022-02-11_05-02-03_187-57483_Cargo_constrained-by-her-draught_11-0_6241.wav 0.376
 Grafton_28434_train/G_28434_2022-08-24_04-00-42_213-692748_Tanker_underway-using-engine_10-7_4045.wav 0.596
 GardenCity_15811_train/G_15811_2022-01-20_06-54-33_294-342588_Tanker_underway-using-engine_5-7_2278.wav 0.772
 Grafton_29187_train/G_29187_2022-10-28_22-09-52_98-375328_Sailing_nan_3-5_5743.wav 0.426
@@ -5767,7 +5748,6 @@ GardenCity_15811_train/G_15811_2022-05-08_01-22-11_196-420033_Cargo_underway-usi
 Grafton_29187_train/G_29187_2022-11-01_13-48-44_112-772657_Cargo_underway-using-engine_10-3_5265.wav 0.473
 GardenCity_15811_train/G_15811_2022-04-22_16-32-23_276-978176_Tanker_underway-using-engine_8-3_6166.wav 0.383
 Grafton_15810_train/G_15810_2022-03-19_14-09-12_140-209888_Tanker_underway-using-engine_12-0_3250.wav 0.675
-Grafton_29187_train/G_29187_2022-11-03_12-57-36_467-19609_Military_underway-using-engine_12-2_3087.wav 0.691
 GardenCity_15811_train/G_15811_2022-03-05_09-58-38_39-117682_Tanker_underway-using-engine_10-2_12357.wav 0.0
 GardenCity_15811_train/G_15811_2022-05-14_06-03-25_195-082398_Cargo_underway-using-engine_10-5_5279.wav 0.472
 Grafton_15810_train/G_15810_2022-04-12_15-10-34_151-753755_Other_underway-using-engine_22-1_3864.wav 0.614
@@ -5881,7 +5861,6 @@ Grafton_29187_train/G_29187_2022-11-01_08-11-15_520-454648_Pilot_underway-using-
 GardenCity_15811_train/G_15811_2022-05-02_00-10-35_79-744416_Cargo_underway-using-engine_11-2_5883.wav 0.412
 GardenCity_15811_train/G_15811_2022-03-11_15-15-41_112-753053_Cargo_underway-using-engine_17-5_13599.wav 0.0
 GardenCity_15811_train/G_15811_2022-02-01_14-29-39_226-349385_Fishing_underway-using-engine_5-8_1043.wav 0.896
-GardenCity_15811_test/G_15811_2022-01-22_17-18-24_33-33184_Cargo_constrained-by-her-draught_11-3_11049.wav 0.0
 Grafton_15810_train/G_15810_2022-04-24_17-13-17_435-306122_Tanker_underway-using-engine_11-7_2159.wav 0.784
 GardenCity_15811_train/G_15811_2022-02-19_05-37-51_286-513687_Other_underway-using-engine_13-0_3105.wav 0.69
 Grafton_29187_train/G_29187_2022-11-03_07-20-06_276-425135_Pilot_underway-using-engine_2-8_6812.wav 0.319
@@ -5894,7 +5873,6 @@ GardenCity_15811_train/G_15811_2022-03-09_21-49-25_249-645635_Passenger_underway
 Grafton_15810_train/G_15810_2022-03-27_05-07-10_302-088945_Cargo_underway-using-engine_12-3_4423.wav 0.558
 Grafton_15810_train/G_15810_2022-04-02_16-22-09_125-151526_Tanker_underway-using-engine_10-5_3892.wav 0.611
 Grafton_15810_train/G_15810_2022-04-22_15-10-34_140-888378_Fishing_underway-using-engine_8-8_3933.wav 0.607
-Grafton_15810_train/G_15810_2022-01-24_11-25-34_230-083705_Military_underway-using-engine_21-0_2581.wav 0.742
 GardenCity_15811_train/G_15811_2022-03-27_04-31-23_168-286086_Cargo_underway-using-engine_14-4_1576.wav 0.842
 Grafton_28434_train/G_28434_2022-09-05_03-04-27_85-767769_High-Speed-Craft_underway-using-engine_18-9_2238.wav 0.776
 GardenCity_15811_train/G_15811_2022-05-14_21-39-11_223-977092_Tug_power-driven-vessel-towing-astern_4-9_12326.wav 0.0
@@ -7497,7 +7475,6 @@ GardenCity_15811_train/G_15811_2022-04-22_13-43-38_212-467828_Cargo_underway-usi
 GardenCity_15811_train/G_15811_2022-02-13_07-15-00_151-358477_Tanker_underway-using-engine_13-0_5140.wav 0.486
 GardenCity_15811_train/G_15811_2022-01-24_15-51-28_56-957287_Tug_power-driven-vessel-towing-astern_3-6_3090.wav 0.691
 Grafton_15810_train/G_15810_2022-02-15_13-07-50_173-3509_Other_restricted-maneuverability_0-3_223.wav 0.978
-Grafton_15810_val/G_15810_2022-04-06_02-23-32_4-364055_Cargo_constrained-by-her-draught_11-3_2363.wav 0.764
 Grafton_15810_train/G_15810_2022-03-05_23-01-00_266-544905_Tanker_underway-using-engine_12-9_4223.wav 0.578
 Grafton_15810_train/G_15810_2022-02-13_21-49-25_242-434499_Cargo_underway-using-engine_11-0_3651.wav 0.635
 Grafton_15810_train/G_15810_2022-02-17_03-35-08_559-429127_Tanker_at-anchor_0-4_8239.wav 0.176
@@ -8113,7 +8090,6 @@ Grafton_15810_train/G_15810_2022-02-01_20-17-22_32-602918_Cargo_underway-using-e
 Grafton_28434_train/G_28434_2022-08-26_07-09-53_140-960454_Tanker_underway-using-engine_11-2_4534.wav 0.547
 Grafton_15810_train/G_15810_2022-03-27_03-35-08_451-810619_Tug_underway-using-engine_6-6_3037.wav 0.696
 Grafton_29187_train/G_29187_2022-11-01_20-07-08_587-030829_Cargo_underway-using-engine_12-4_1549.wav 0.845
-Grafton_15810_train/G_15810_2022-03-25_08-11-15_415-067246_Tanker_constrained-by-her-draught_102-3_1938.wav 0.806
 Grafton_15810_train/G_15810_2022-01-24_21-39-11_195-626583_Cargo_underway-using-engine_12-4_5349.wav 0.465
 GardenCity_15811_train/G_15811_2022-03-01_07-20-07_222-278023_Cargo_underway-using-engine_13-3_12908.wav 0.0
 GardenCity_15811_train/G_15811_2022-04-22_23-52-08_125-239942_Cargo_underway-using-engine_8-3_4409.wav 0.559
@@ -8850,7 +8826,6 @@ GardenCity_15811_train/G_15811_2022-05-18_08-26-36_133-093131_Cargo_underway-usi
 GardenCity_15811_train/G_15811_2022-03-27_04-51-50_165-534048_Cargo_underway-using-engine_14-8_9514.wav 0.049
 GardenCity_15811_train/G_15811_2022-04-20_11-20-27_257-913419_Cargo_underway-using-engine_8-5_2104.wav 0.79
 GardenCity_15811_train/G_15811_2022-02-01_06-28-59_172-482441_Tanker_underway-using-engine_10-4_3773.wav 0.623
-GardenCity_15811_train/G_15811_2022-02-23_00-56-36_113-713772_Military_underway-using-engine_24-7_7448.wav 0.255
 GardenCity_15811_train/G_15811_2022-03-27_23-52-08_120-953952_Cargo_underway-using-engine_11-1_2358.wav 0.764
 GardenCity_15811_train/G_15811_2022-02-19_21-49-25_219-845671_Cargo_underway-using-engine_14-2_9661.wav 0.034
 Grafton_15810_train/G_15810_2022-04-20_23-31-41_237-8513_Cargo_underway-using-engine_15-9_4269.wav 0.573
@@ -9011,7 +8986,6 @@ Grafton_28434_train/G_28434_2022-08-26_13-12-57_131-815593_Cargo_underway-using-
 Grafton_15810_train/G_15810_2022-04-04_14-19-26_298-656084_Tanker_underway-using-engine_5-9_5312.wav 0.469
 Grafton_15810_train/G_15810_2022-02-27_09-33-04_145-82727_Pilot_underway-using-engine_0-9_6846.wav 0.315
 Grafton_15810_train/G_15810_2022-03-21_04-36-29_120-408116_Cargo_underway-using-engine_15-8_1967.wav 0.803
-GardenCity_15811_train/G_15811_2022-02-09_20-17-24_6-824598_Military_underway-using-engine_15-2_6038.wav 0.396
 GardenCity_15811_train/G_15811_2022-02-15_04-21-09_19-441392_Cargo_underway-using-engine_8-2_2530.wav 0.747
 GardenCity_26981_train/G_26981_2022-06-24_06-39-12_278-677458_Cargo_underway-using-engine_16-1_5387.wav 0.461
 GardenCity_15811_train/G_15811_2022-05-16_10-00-33_68-544356_Tanker_underway-using-engine_11-9_4398.wav 0.56
@@ -9283,7 +9257,6 @@ Grafton_28434_train/G_28434_2022-09-09_02-18-26_94-925259_Tanker_underway-using-
 Grafton_15810_train/G_15810_2022-02-13_08-11-15_376-56953_Pilot_underway-using-engine_1-6_5564.wav 0.444
 GardenCity_15811_train/G_15811_2022-01-20_11-10-14_122-032641_Cargo_underway-using-engine_17-4_7383.wav 0.262
 GardenCity_15811_train/G_15811_2022-03-29_21-54-32_293-886879_Cargo_underway-using-engine_16-2_3495.wav 0.65
-Grafton_15810_train/G_15810_2022-01-24_11-25-34_382-31503_Military_underway-using-engine_20-3_1293.wav 0.871
 Grafton_15810_train/G_15810_2022-04-28_11-25-34_266-072536_Fishing_underway-using-engine_6-1_3818.wav 0.618
 Grafton_15810_train/G_15810_2022-03-07_03-14-40_491-340613_Fishing_underway-using-engine_8-6_3950.wav 0.605
 GardenCity_15811_train/G_15811_2022-04-28_18-04-25_121-094944_Tanker_underway-using-engine_10-2_4042.wav 0.596
@@ -9844,7 +9817,6 @@ Grafton_15810_train/G_15810_2022-04-24_12-06-29_23-209726_Cargo_underway-using-e
 GardenCity_15811_train/G_15811_2022-02-15_21-03-24_100-233526_Cargo_underway-using-engine_10-8_10171.wav 0.0
 GardenCity_26981_train/G_26981_2022-06-24_20-17-21_67-2469_Cargo_underway-using-engine_8-5_2944.wav 0.706
 GardenCity_15811_train/G_15811_2022-03-03_00-56-37_262-78802_Fishing_underway-using-engine_4-9_2654.wav 0.735
-GardenCity_15811_test/G_15811_2022-05-04_21-28-58_52-082747_Cargo_constrained-by-her-draught_8-5_8161.wav 0.184
 Grafton_15810_train/G_15810_2022-02-13_23-41-55_229-778765_Cargo_underway-using-engine_10-1_1592.wav 0.841
 GardenCity_15811_train/G_15811_2022-04-20_21-28-58_92-085169_Cargo_underway-using-engine_6-7_8483.wav 0.152
 GardenCity_15811_train/G_15811_2022-03-19_13-38-50_0-306817_Cargo_underway-using-engine_10-2_2167.wav 0.783
@@ -9889,7 +9861,6 @@ Grafton_15810_train/G_15810_2022-02-25_12-37-10_600-527568_Cargo_underway-using-
 Grafton_15810_train/G_15810_2022-01-24_01-42-38_285-982787_Cargo_underway-using-engine_10-3_2056.wav 0.794
 Grafton_28434_train/G_28434_2022-09-07_22-14-59_265-766208_Dredging_underway-using-engine_12-8_489.wav 0.951
 Grafton_15810_train/G_15810_2022-03-19_12-26-56_586-69984_Tanker_underway-using-engine_11-7_4038.wav 0.596
-Grafton_15810_val/G_15810_2022-04-06_18-45-20_140-646005_Cargo_constrained-by-her-draught_9-7_4420.wav 0.558
 GardenCity_26981_train/G_26981_2022-06-26_16-11-55_603-596754_Cargo_underway-using-engine_9-6_3065.wav 0.694
 GardenCity_15811_train/G_15811_2022-03-11_22-25-13_249-505771_Cargo_underway-using-engine_10-2_13617.wav 0.0
 Grafton_15810_train/G_15810_2022-03-01_12-06-29_608-402103_High-Speed-Craft_underway-using-engine_22-7_2082.wav 0.792
@@ -10487,7 +10458,6 @@ Grafton_15810_train/G_15810_2022-03-09_19-16-01_284-508634_Dredging_restricted-m
 GardenCity_15811_train/G_15811_2022-03-05_23-21-28_281-035593_Cargo_underway-using-engine_12-6_5536.wav 0.446
 GardenCity_15811_train/G_15811_2022-04-30_23-06-15_6-818901_Cargo_underway-using-engine_9-8_5261.wav 0.474
 Grafton_15810_train/G_15810_2022-03-29_18-14-39_243-978315_Fishing_engaged-in-fishing_3-8_3282.wav 0.672
-GardenCity_15811_test/G_15811_2022-05-04_21-39-11_117-157906_Cargo_constrained-by-her-draught_8-4_5572.wav 0.443
 GardenCity_15811_train/G_15811_2022-01-20_12-32-03_163-054552_Cargo_underway-using-engine_6-2_7820.wav 0.218
 Grafton_15810_train/G_15810_2022-03-03_14-39-55_61-73122_Dredging_restricted-maneuverability_14-7_1590.wav 0.841
 GardenCity_15811_train/G_15811_2022-02-21_04-31-23_61-544419_Cargo_underway-using-engine_13-9_4037.wav 0.596
@@ -10615,7 +10585,6 @@ GardenCity_15811_train/G_15811_2022-02-17_08-57-17_25-232519_Fishing_engaged-in-
 GardenCity_15811_train/G_15811_2022-03-23_13-07-50_73-116869_Cargo_underway-using-engine_9-0_1586.wav 0.841
 Grafton_15810_train/G_15810_2022-01-30_18-45-20_566-984118_Pilot_underway-using-engine_0-9_6963.wav 0.304
 GardenCity_15811_train/G_15811_2022-02-05_19-31-21_291-645299_Tanker_underway-using-engine_12-8_4059.wav 0.594
-GardenCity_15811_test/G_15811_2022-01-22_17-28-38_100-339127_Cargo_constrained-by-her-draught_11-4_14395.wav 0.0
 Grafton_15810_train/G_15810_2022-04-24_16-01-42_515-423233_Tanker_underway-using-engine_11-3_4813.wav 0.519
 GardenCity_15811_train/G_15811_2022-02-05_12-11-35_47-519142_Cargo_underway-using-engine_6-8_7718.wav 0.228
 GardenCity_15811_train/G_15811_2022-03-03_14-55-13_268-824286_Tanker_underway-using-engine_8-4_2289.wav 0.771
@@ -10648,7 +10617,6 @@ Grafton_15810_train/G_15810_2022-04-04_15-41-15_457-346354_Tanker_underway-using
 Grafton_15810_train/G_15810_2022-04-20_02-33-46_27-560944_Cargo_underway-using-engine_14-3_1372.wav 0.863
 GardenCity_15811_train/G_15811_2022-02-05_14-55-13_286-389826_Tanker_underway-using-engine_14-5_4660.wav 0.534
 Grafton_15810_train/G_15810_2022-04-08_06-18-46_516-940994_Tanker_underway-using-engine_15-2_1609.wav 0.839
-GardenCity_15811_test/G_15811_2022-05-04_21-54-32_206-291428_Cargo_constrained-by-her-draught_8-5_3284.wav 0.672
 Grafton_15810_train/G_15810_2022-03-21_02-03-05_583-35306_Tanker_underway-using-engine_15-9_4724.wav 0.528
 GardenCity_15811_train/G_15811_2022-02-21_06-18-46_10-074091_Cargo_underway-using-engine_13-1_5584.wav 0.442
 GardenCity_15811_train/G_15811_2022-03-11_00-10-35_43-762527_Cargo_underway-using-engine_9-5_5218.wav 0.478
@@ -10665,7 +10633,6 @@ GardenCity_15811_train/G_15811_2022-02-15_03-45-21_126-783456_Other_underway-usi
 GardenCity_15811_train/G_15811_2022-03-23_01-27-17_128-058798_Cargo_underway-using-engine_14-8_4437.wav 0.556
 Grafton_15810_train/G_15810_2022-04-12_16-01-42_564-374614_Cargo_underway-using-engine_15-1_4609.wav 0.539
 GardenCity_15811_train/G_15811_2022-03-11_08-57-17_292-898639_Cargo_underway-using-engine_7-8_3121.wav 0.688
-Grafton_15810_val/G_15810_2022-03-15_08-11-15_0-872443_Cargo_constrained-by-her-draught_9-9_2899.wav 0.71
 Grafton_28434_train/G_28434_2022-09-01_01-22-11_175-652_Cargo_underway-using-engine_9-3_2897.wav 0.71
 Grafton_15810_train/G_15810_2022-03-21_00-51-30_42-364863_Fishing_underway-using-engine_10-9_3059.wav 0.694
 Grafton_15810_train/G_15810_2022-02-25_02-03-05_47-918641_Pilot_moored_0-4_6569.wav 0.343
@@ -10737,7 +10704,6 @@ GardenCity_15811_train/G_15811_2022-05-18_15-51-28_256-432815_Fishing_underway-u
 Grafton_15810_train/G_15810_2022-04-22_07-20-07_228-039316_Fishing_underway-using-engine_8-6_3691.wav 0.631
 Grafton_15810_train/G_15810_2022-04-04_20-48-03_408-10175_Fishing_undefined-=-default_4-2_4490.wav 0.551
 GardenCity_15811_train/G_15811_2022-03-11_13-58-59_98-075744_Tanker_underway-using-engine_12-7_5632.wav 0.437
-Grafton_15810_train/G_15810_2022-01-24_16-32-23_582-03951_High-Speed-Craft_underway-using-engine_30-3_1972.wav 0.803
 Grafton_15810_train/G_15810_2022-03-27_17-43-58_252-248159_Cargo_underway-using-engine_10-3_2916.wav 0.708
 GardenCity_15811_train/G_15811_2022-03-23_17-28-38_71-374704_Tanker_underway-using-engine_13-9_3353.wav 0.665
 Grafton_15810_train/G_15810_2022-01-24_12-16-42_407-448056_Tanker_underway-using-engine_10-1_7496.wav 0.25
@@ -10946,7 +10912,6 @@ GardenCity_15811_train/G_15811_2022-01-24_11-05-07_254-231976_Other_restricted-m
 Grafton_15810_train/G_15810_2022-02-17_21-39-11_228-586338_Cargo_underway-using-engine_13-9_3961.wav 0.604
 Grafton_15810_train/G_15810_2022-03-03_00-00-19_354-577756_Cargo_underway-using-engine_12-2_1831.wav 0.817
 Grafton_15810_train/G_15810_2022-02-25_17-13-17_254-661147_Cargo_underway-using-engine_16-7_4839.wav 0.516
-Grafton_15810_train/G_15810_2022-05-02_21-49-25_56-273209_Military_undefined-=-default_27-7_1927.wav 0.807
 Grafton_15810_train/G_15810_2022-02-15_12-57-37_371-28515_Other_restricted-maneuverability_0-2_223.wav 0.978
 GardenCity_26981_train/G_26981_2022-06-24_02-33-45_93-141743_Tanker_underway-using-engine_12-3_4180.wav 0.582
 GardenCity_15811_train/G_15811_2022-02-23_16-11-56_285-226493_Cargo_underway-using-engine_13-5_2394.wav 0.761
@@ -11007,7 +10972,6 @@ GardenCity_15811_train/G_15811_2022-04-20_18-40-13_76-439988_Fishing_underway-us
 Grafton_15810_train/G_15810_2022-03-29_09-43-18_329-151704_High-Speed-Craft_underway-using-engine_13-7_3225.wav 0.677
 Grafton_15810_train/G_15810_2022-03-31_12-57-37_136-524729_Tanker_underway-using-engine_11-7_5533.wav 0.447
 GardenCity_15811_train/G_15811_2022-05-14_19-10-54_61-547231_Tanker_underway-using-engine_9-9_10811.wav 0.0
-GardenCity_15811_train/G_15811_2022-02-09_20-22-31_79-579986_Military_underway-using-engine_14-9_4947.wav 0.505
 Grafton_28434_train/G_28434_2022-09-05_02-18-26_257-434685_Cargo_at-anchor_0-0_8337.wav 0.166
 Grafton_15810_train/G_15810_2022-02-13_11-46-01_147-143999_Cargo_underway-using-engine_16-3_3897.wav 0.61
 Grafton_15810_train/G_15810_2022-02-05_03-14-40_220-654871_Pilot_underway-using-engine_1-2_6148.wav 0.385
@@ -11128,7 +11092,6 @@ GardenCity_15811_train/G_15811_2022-02-17_18-14-39_145-202298_Tanker_underway-us
 Grafton_15810_train/G_15810_2022-02-25_17-13-17_374-664522_Cargo_underway-using-engine_16-7_4688.wav 0.531
 Grafton_15810_train/G_15810_2022-05-02_04-05-49_32-008963_Other_engaged-in-fishing_4-6_4225.wav 0.578
 GardenCity_15811_train/G_15811_2022-02-13_15-56-35_262-843612_Cargo_underway-using-engine_18-6_4879.wav 0.512
-Grafton_15810_val/G_15810_2022-04-06_02-33-46_189-187629_Cargo_constrained-by-her-draught_11-4_2803.wav 0.72
 Grafton_28434_train/G_28434_2022-08-22_16-47-43_23-664324_Other_restricted-maneuverability_0-0_595.wav 0.941
 GardenCity_15811_train/G_15811_2022-03-03_17-23-33_10-390399_Tanker_underway-using-engine_12-5_6960.wav 0.304
 GardenCity_15811_train/G_15811_2022-04-22_15-56-35_14-344515_Cargo_underway-using-engine_12-1_1630.wav 0.837
@@ -11253,7 +11216,6 @@ Grafton_15810_train/G_15810_2022-04-10_05-48-04_374-633899_Cargo_underway-using-
 Grafton_15810_train/G_15810_2022-04-02_09-12-37_293-688088_Cargo_underway-using-engine_18-0_4653.wav 0.535
 GardenCity_15811_train/G_15811_2022-05-12_16-17-02_111-563682_Tanker_underway-using-engine_10-6_9213.wav 0.079
 GardenCity_15811_train/G_15811_2022-02-09_03-19-47_1-233067_Tanker_underway-using-engine_15-2_1818.wav 0.818
-Grafton_28434_train/G_28434_2022-08-30_22-09-52_71-119804_Military_restricted-maneuverability_1-3_4747.wav 0.525
 GardenCity_15811_train/G_15811_2022-05-08_19-11-04_96-442455_Cargo_underway-using-engine_10-5_9379.wav 0.062
 GardenCity_15811_train/G_15811_2022-03-05_18-55-33_250-75979_Cargo_underway-using-engine_13-7_5256.wav 0.474
 Grafton_15810_train/G_15810_2022-03-05_12-06-29_347-769412_Tanker_underway-using-engine_11-5_3305.wav 0.669
@@ -11433,7 +11395,6 @@ Grafton_15810_train/G_15810_2022-04-22_16-32-23_242-699648_Cargo_underway-using-
 Grafton_28434_train/G_28434_2022-09-01_09-38-11_90-767419_Tanker_underway-using-engine_14-5_4259.wav 0.574
 Grafton_29187_train/G_29187_2022-11-03_16-42-35_116-957462_Other_underway-using-engine_6-6_2515.wav 0.749
 Grafton_15810_train/G_15810_2022-04-30_11-05-07_400-233549_Fishing_engaged-in-fishing_2-7_1021.wav 0.898
-Grafton_15810_val/G_15810_2022-04-06_14-09-12_561-383195_Cargo_constrained-by-her-draught_17-7_2605.wav 0.74
 GardenCity_15811_train/G_15811_2022-03-11_11-56-15_255-098003_Cargo_underway-using-engine_11-2_4892.wav 0.511
 Grafton_15810_train/G_15810_2022-03-01_03-24-54_359-450036_Tanker_underway-using-engine_12-7_3965.wav 0.604
 GardenCity_15811_train/G_15811_2022-05-06_04-36-30_291-383646_Dredging_restricted-maneuverability_4-6_6078.wav 0.392
@@ -11486,7 +11447,6 @@ GardenCity_26981_train/G_26981_2022-06-26_11-46-00_431-892334_Cargo_underway-usi
 Grafton_15810_train/G_15810_2022-01-24_06-08-32_547-999094_Cargo_underway-using-engine_13-9_3966.wav 0.603
 Grafton_15810_train/G_15810_2022-03-27_19-16-01_172-842174_Tanker_underway-using-engine_13-8_4524.wav 0.548
 Grafton_15810_train/G_15810_2022-03-23_17-54-12_292-607201_Reserved_underway-using-engine_11-5_5888.wav 0.411
-GardenCity_15811_test/G_15811_2022-01-22_16-32-23_215-298599_Cargo_constrained-by-her-draught_12-0_7949.wav 0.205
 Grafton_15810_train/G_15810_2022-03-09_11-46-01_278-248745_Dredging_restricted-maneuverability_12-9_2287.wav 0.771
 Grafton_15810_train/G_15810_2022-04-12_17-43-58_334-60403_Fishing_engaged-in-fishing_3-6_3333.wav 0.667
 Grafton_15810_train/G_15810_2022-03-07_20-58-16_32-104548_Tanker_constrained-by-her-draught_12-1_1601.wav 0.84
@@ -12013,14 +11973,12 @@ GardenCity_15811_train/G_15811_2022-02-07_04-31-23_73-892549_Tanker_underway-usi
 GardenCity_15811_train/G_15811_2022-04-22_19-41-35_6-119105_Cargo_underway-using-engine_15-9_16365.wav 0.0
 GardenCity_15811_train/G_15811_2022-05-08_06-44-20_285-11806_Cargo_underway-using-engine_8-3_1965.wav 0.803
 GardenCity_15811_train/G_15811_2022-02-01_04-51-50_257-761887_Fishing_engaged-in-fishing_7-2_3074.wav 0.693
-Grafton_15810_val/G_15810_2022-04-06_02-44-00_255-430217_Cargo_constrained-by-her-draught_11-3_6213.wav 0.379
 Grafton_15810_train/G_15810_2022-02-27_06-59-40_19-999856_Cargo_underway-using-engine_7-4_4384.wav 0.562
 Grafton_29187_train/G_29187_2022-10-28_04-26-16_485-516998_Tanker_underway-using-engine_11-2_5125.wav 0.487
 Grafton_15810_train/G_15810_2022-02-13_14-29-39_126-691621_Cargo_underway-using-engine_15-3_3975.wav 0.603
 GardenCity_15811_train/G_15811_2022-01-24_08-21-29_218-768878_Cargo_underway-using-engine_13-3_6253.wav 0.375
 GardenCity_26981_train/G_26981_2022-06-26_10-03-44_100-431304_Tanker_underway-using-engine_15-1_2399.wav 0.76
 GardenCity_15811_train/G_15811_2022-02-19_22-45-40_203-092475_Cargo_underway-using-engine_7-5_1377.wav 0.862
-Grafton_15810_train/G_15810_2022-05-08_13-48-45_337-635219_High-Speed-Craft_underway-using-engine_102-3_4750.wav 0.525
 Grafton_15810_train/G_15810_2022-05-08_06-08-32_231-523997_Cargo_underway-using-engine_10-6_6380.wav 0.362
 Grafton_15810_train/G_15810_2022-03-05_20-37-50_255-554128_Cargo_underway-using-engine_5-3_1609.wav 0.839
 GardenCity_15811_train/G_15811_2022-02-15_10-49-46_145-179166_Cargo_underway-using-engine_13-1_3144.wav 0.686
@@ -12047,7 +12005,6 @@ Grafton_28434_train/G_28434_2022-09-09_05-42-58_79-737057_Cargo_underway-using-e
 Grafton_15810_train/G_15810_2022-03-29_16-22-09_159-365776_Other_underway-using-engine_9-8_3644.wav 0.636
 GardenCity_15811_train/G_15811_2022-05-14_23-21-28_148-145456_Cargo_underway-using-engine_16-3_14163.wav 0.0
 GardenCity_15811_train/G_15811_2022-02-09_18-09-32_169-540259_Tanker_underway-using-engine_13-7_5561.wav 0.444
-Grafton_15810_test/G_15810_2022-01-22_23-31-40_393-698509_Tanker_constrained-by-her-draught_15-4_2162.wav 0.784
 Grafton_15810_train/G_15810_2022-03-07_08-31-41_220-266137_Tanker_underway-using-engine_10-4_3144.wav 0.686
 Grafton_28434_train/G_28434_2022-09-11_07-50-48_202-866048_Cargo_underway-using-engine_8-8_7984.wav 0.202
 Grafton_15810_train/G_15810_2022-03-19_09-02-24_466-055661_Tanker_underway-using-engine_14-5_4229.wav 0.577
@@ -12080,7 +12037,6 @@ Grafton_28434_train/G_28434_2022-09-03_10-54-53_280-89049_Cargo_underway-using-e
 Grafton_15810_train/G_15810_2022-03-31_02-43-59_567-092708_Cargo_underway-using-engine_2-9_2306.wav 0.769
 GardenCity_15811_train/G_15811_2022-02-09_09-38-11_195-077108_Law-Enforcement_underway-using-engine_15-1_6073.wav 0.393
 Grafton_15810_train/G_15810_2022-01-30_19-05-47_79-938754_Pilot_underway-using-engine_0-5_7199.wav 0.28
-Grafton_15810_val/G_15810_2022-02-03_21-59-40_360-078777_Tanker_constrained-by-her-draught_15-3_2469.wav 0.753
 Grafton_15810_train/G_15810_2022-01-30_13-28-18_404-697432_Cargo_underway-using-engine_12-9_3919.wav 0.608
 GardenCity_15811_train/G_15811_2022-03-11_07-09-54_172-192756_Cargo_underway-using-engine_12-1_2670.wav 0.733
 GardenCity_15811_train/G_15811_2022-03-09_20-07-09_288-528989_Cargo_underway-using-engine_14-0_7010.wav 0.299
@@ -12378,7 +12334,6 @@ GardenCity_15811_train/G_15811_2022-05-06_16-27-16_114-902942_Tanker_underway-us
 GardenCity_15811_train/G_15811_2022-02-07_02-23-32_71-195926_Cargo_underway-using-engine_6-0_2566.wav 0.743
 Grafton_15810_train/G_15810_2022-04-10_22-09-51_177-455538_Tanker_moored_11-1_2465.wav 0.753
 Grafton_15810_train/G_15810_2022-03-25_19-56-55_550-898148_Tanker_constrained-by-her-draught_11-7_1857.wav 0.814
-Grafton_15810_val/G_15810_2022-04-06_19-05-47_405-557231_Cargo_constrained-by-her-draught_8-8_2423.wav 0.758
 Grafton_15810_train/G_15810_2022-04-22_22-20-06_549-365037_Tanker_underway-using-engine_9-6_3415.wav 0.658
 Grafton_28434_train/G_28434_2022-09-09_04-16-02_193-968891_Tanker_underway-using-engine_13-3_4114.wav 0.589
 GardenCity_15811_train/G_15811_2022-01-20_16-17-02_106-213025_Tanker_underway-using-engine_12-9_4525.wav 0.547
@@ -12886,7 +12841,6 @@ Grafton_15810_train/G_15810_2022-03-07_21-49-24_170-653213_Tanker_underway-using
 GardenCity_15811_train/G_15811_2022-02-17_17-03-04_121-619148_Cargo_underway-using-engine_13-8_6551.wav 0.345
 Grafton_28434_train/G_28434_2022-09-11_19-26-14_211-72645_Cargo_underway-using-engine_15-6_3721.wav 0.628
 GardenCity_15811_train/G_15811_2022-03-03_21-39-13_216-460753_Cargo_underway-using-engine_13-3_3082.wav 0.692
-GardenCity_15811_val/G_15811_2022-02-11_05-12-17_304-543361_Cargo_constrained-by-her-draught_10-8_4012.wav 0.599
 GardenCity_15811_train/G_15811_2022-02-05_09-17-44_284-340109_Cargo_underway-using-engine_11-2_2944.wav 0.706
 GardenCity_15811_train/G_15811_2022-04-20_20-42-57_274-160625_Cargo_underway-using-engine_7-2_815.wav 0.918
 GardenCity_15811_train/G_15811_2022-02-05_19-46-41_80-89381_Tanker_underway-using-engine_12-6_5990.wav 0.401
@@ -13286,7 +13240,6 @@ Grafton_15810_train/G_15810_2022-03-13_06-28-59_82-527467_High-Speed-Craft_under
 Grafton_15810_train/G_15810_2022-01-20_07-30-20_298-752557_Pilot_underway-using-engine_10-2_6535.wav 0.346
 Grafton_15810_train/G_15810_2022-01-30_17-33-45_37-9629_Tanker_underway-using-engine_10-9_5587.wav 0.441
 Grafton_15810_train/G_15810_2022-03-27_22-50-47_186-166033_Cargo_underway-using-engine_12-8_3795.wav 0.621
-Grafton_15810_val/G_15810_2022-04-06_02-23-32_443-263635_Cargo_constrained-by-her-draught_11-4_1907.wav 0.809
 Grafton_15810_train/G_15810_2022-05-02_23-31-41_609-966805_Fishing_engaged-in-fishing_4-5_1866.wav 0.813
 Grafton_15810_train/G_15810_2022-04-04_00-31-03_253-450067_Cargo_underway-using-engine_9-7_4497.wav 0.55
 Grafton_15810_train/G_15810_2022-01-24_20-27-36_591-954499_Other_underway-using-engine_11-7_4183.wav 0.582
@@ -13377,7 +13330,6 @@ GardenCity_15811_train/G_15811_2022-03-29_00-31-02_29-108529_Cargo_underway-usin
 Grafton_15810_train/G_15810_2022-03-27_06-28-59_49-450942_High-Speed-Craft_underway-using-engine_22-7_1246.wav 0.875
 Grafton_15810_train/G_15810_2022-02-25_13-28-18_128-659135_Tanker_underway-using-engine_12-7_5976.wav 0.402
 Grafton_15810_train/G_15810_2022-03-05_16-52-50_375-097489_Tanker_underway-using-engine_11-5_4166.wav 0.583
-Grafton_15810_val/G_15810_2022-04-06_18-55-33_209-036298_Cargo_constrained-by-her-draught_9-4_2074.wav 0.793
 GardenCity_15811_train/G_15811_2022-05-06_10-44-40_184-531369_Dredging_restricted-maneuverability_3-5_3991.wav 0.601
 Grafton_15810_train/G_15810_2022-03-11_21-18-44_205-234075_Tanker_underway-using-engine_14-7_3884.wav 0.612
 GardenCity_15811_train/G_15811_2022-03-09_00-51-30_64-675616_Fishing_underway-using-engine_6-3_4103.wav 0.59
@@ -13563,7 +13515,6 @@ Grafton_15810_train/G_15810_2022-03-09_06-18-46_242-668103_Dredging_underway-usi
 Grafton_28434_train/G_28434_2022-09-07_00-41-16_12-462051_Pilot_moored_11-8_5082.wav 0.492
 Grafton_15810_train/G_15810_2022-01-24_23-21-28_118-503582_Tanker_underway-using-engine_11-2_2377.wav 0.762
 GardenCity_15811_train/G_15811_2022-01-30_03-19-47_220-52198_Tanker_underway-using-engine_8-4_5497.wav 0.45
-Grafton_15810_val/G_15810_2022-03-15_08-11-15_360-447548_Cargo_constrained-by-her-draught_9-7_2288.wav 0.771
 Grafton_15810_train/G_15810_2022-02-13_19-05-47_60-534803_Tanker_underway-using-engine_9-6_2282.wav 0.772
 Grafton_15810_train/G_15810_2022-03-01_23-11-14_441-468363_Cargo_underway-using-engine_9-3_4260.wav 0.574
 Grafton_15810_train/G_15810_2022-02-05_07-09-53_165-794646_Cargo_underway-using-engine_10-7_3849.wav 0.615
@@ -14097,7 +14048,6 @@ Grafton_15810_train/G_15810_2022-05-08_04-26-16_243-863468_Pilot_underway-using-
 GardenCity_15811_train/G_15811_2022-05-08_05-02-03_285-89824_Cargo_underway-using-engine_10-1_2522.wav 0.748
 GardenCity_15811_train/G_15811_2022-03-19_13-54-11_229-983802_Cargo_underway-using-engine_11-6_2358.wav 0.764
 GardenCity_15811_train/G_15811_2022-05-18_18-45-20_210-10167_Cargo_underway-using-engine_5-4_3118.wav 0.688
-Grafton_15810_val/G_15810_2022-02-03_21-59-40_607-035131_Tanker_constrained-by-her-draught_15-1_2016.wav 0.798
 GardenCity_15811_train/G_15811_2022-03-03_23-41-57_27-790759_Cargo_underway-using-engine_10-2_5228.wav 0.477
 GardenCity_15811_train/G_15811_2022-03-09_18-50-26_182-342026_Cargo_underway-using-engine_11-2_3377.wav 0.662
 Grafton_15810_train/G_15810_2022-04-22_04-46-43_132-283964_Cargo_underway-using-engine_9-9_4816.wav 0.518
@@ -14464,7 +14414,6 @@ Grafton_15810_train/G_15810_2022-04-22_17-03-04_173-398392_Cargo_underway-using-
 GardenCity_15811_train/G_15811_2022-02-27_02-18-25_3-213314_Cargo_underway-using-engine_7-9_6729.wav 0.327
 Grafton_15810_train/G_15810_2022-03-13_07-30-21_279-407372_Cargo_underway-using-engine_10-2_2468.wav 0.753
 Grafton_15810_train/G_15810_2022-02-21_20-07-09_596-444855_Tanker_underway-using-engine_11-6_4786.wav 0.521
-Grafton_28434_val/G_28434_2022-08-28_16-42-36_90-741533_Tanker_constrained-by-her-draught_13-4_4463.wav 0.554
 Grafton_29187_train/G_29187_2022-11-01_15-10-33_41-902486_Pilot_underway-using-engine_0-9_5593.wav 0.441
 Grafton_15810_train/G_15810_2022-02-25_12-26-56_154-49297_Tanker_underway-using-engine_2-6_6709.wav 0.329
 GardenCity_15811_train/G_15811_2022-01-24_21-03-24_125-588866_Tanker_underway-using-engine_14-3_2547.wav 0.745
@@ -14577,7 +14526,6 @@ Grafton_15810_train/G_15810_2022-04-30_05-27-38_555-263766_High-Speed-Craft_unde
 GardenCity_15811_train/G_15811_2022-04-20_01-06-50_289-462628_Tanker_underway-using-engine_12-2_7527.wav 0.247
 GardenCity_15811_train/G_15811_2022-02-09_10-44-40_250-880809_Tanker_underway-using-engine_11-7_5745.wav 0.425
 Grafton_15810_train/G_15810_2022-03-05_19-26-14_195-751906_Tanker_underway-using-engine_11-3_3866.wav 0.613
-Grafton_15810_test/G_15810_2022-01-22_17-43-57_590-672553_Tanker_constrained-by-her-draught_13-9_4510.wav 0.549
 Grafton_15810_train/G_15810_2022-02-13_01-52-52_473-528037_Cargo_underway-using-engine_8-5_5339.wav 0.466
 Grafton_15810_train/G_15810_2022-02-15_14-19-26_133-42543_Other_restricted-maneuverability_0-1_223.wav 0.978
 GardenCity_15811_train/G_15811_2022-03-15_18-19-46_9-438222_Tanker_underway-using-engine_12-0_4355.wav 0.565
@@ -14797,7 +14745,6 @@ Grafton_15810_train/G_15810_2022-05-02_16-01-42_323-908463_Fishing_undefined-=-d
 Grafton_15810_train/G_15810_2022-03-31_13-38-31_602-889018_Cargo_underway-using-engine_10-7_2728.wav 0.727
 GardenCity_15811_train/G_15811_2022-03-07_22-04-45_11-612089_Cargo_underway-using-engine_13-1_5597.wav 0.44
 Grafton_15810_train/G_15810_2022-01-20_06-08-31_181-046625_Other_underway-using-engine_11-0_1890.wav 0.811
-GardenCity_15811_test/G_15811_2022-05-04_03-55-35_148-479779_Cargo_constrained-by-her-draught_13-9_4885.wav 0.511
 GardenCity_15811_train/G_15811_2022-04-20_08-11-15_24-49375_Cargo_underway-using-engine_13-4_1933.wav 0.807
 GardenCity_15811_train/G_15811_2022-01-28_00-46-23_115-53434_Cargo_underway-using-engine_7-9_6532.wav 0.347
 GardenCity_15811_train/G_15811_2022-03-05_15-10-34_36-812081_Cargo_underway-using-engine_14-0_2993.wav 0.701
@@ -14926,7 +14873,6 @@ Grafton_15810_train/G_15810_2022-05-02_06-18-46_383-652128_Other_engaged-in-fish
 Grafton_15810_train/G_15810_2022-01-24_19-46-42_404-138526_Tanker_underway-using-engine_12-4_4061.wav 0.594
 Grafton_15810_train/G_15810_2022-03-19_04-16-02_458-044525_Cargo_underway-using-engine_13-8_2206.wav 0.779
 Grafton_28434_train/G_28434_2022-09-05_04-46-43_118-986027_Cargo_underway-using-engine_11-8_4991.wav 0.501
-Grafton_15810_val/G_15810_2022-02-11_08-21-29_567-183488_Cargo_constrained-by-her-draught_12-2_2939.wav 0.706
 Grafton_15810_train/G_15810_2022-04-12_19-46-41_87-075075_Fishing_engaged-in-fishing_5-1_4988.wav 0.501
 GardenCity_15811_train/G_15811_2022-02-09_19-21-09_137-603637_Cargo_underway-using-engine_10-2_11713.wav 0.0
 Grafton_15810_train/G_15810_2022-04-02_16-01-42_265-112755_Tanker_moored_10-7_4401.wav 0.56
@@ -15014,12 +14960,10 @@ GardenCity_26981_train/G_26981_2022-06-24_02-33-45_404-445964_Tanker_underway-us
 Grafton_15810_train/G_15810_2022-01-28_01-42-38_136-688884_Cargo_underway-using-engine_9-7_3915.wav 0.609
 GardenCity_15811_train/G_15811_2022-03-19_04-01-01_265-088775_Cargo_underway-using-engine_10-3_4768.wav 0.523
 Grafton_15810_train/G_15810_2022-03-07_21-59-37_170-719024_Tanker_underway-using-engine_11-7_5457.wav 0.454
-GardenCity_15811_val/G_15811_2022-02-11_05-07-10_251-514702_Cargo_constrained-by-her-draught_10-7_4766.wav 0.523
 GardenCity_15811_train/G_15811_2022-05-02_15-56-35_145-132291_Cargo_underway-using-engine_11-2_2111.wav 0.789
 Grafton_15810_train/G_15810_2022-04-10_23-41-54_563-370697_Fishing_engaged-in-fishing_5-1_1672.wav 0.833
 Grafton_15810_train/G_15810_2022-02-13_12-26-56_90-463317_Tanker_underway-using-engine_10-1_5361.wav 0.464
 Grafton_15810_train/G_15810_2022-03-13_09-12-37_370-161337_Cargo_underway-using-engine_14-5_3298.wav 0.67
-Grafton_15810_val/G_15810_2022-04-06_19-26-14_273-400279_Cargo_constrained-by-her-draught_7-3_6495.wav 0.35
 Grafton_15810_train/G_15810_2022-03-11_02-33-46_339-936489_Cargo_underway-using-engine_11-7_3909.wav 0.609
 GardenCity_15811_train/G_15811_2022-03-19_12-52-49_32-568972_Cargo_underway-using-engine_12-9_1995.wav 0.8
 Grafton_15810_train/G_15810_2022-03-21_20-48-03_431-323259_Tanker_underway-using-engine_11-9_4092.wav 0.591
@@ -15426,7 +15370,6 @@ Grafton_15810_train/G_15810_2022-03-09_16-22-09_430-251752_Tanker_underway-using
 Grafton_15810_train/G_15810_2022-02-15_15-41-15_364-418135_Other_restricted-maneuverability_0-3_550.wav 0.945
 Grafton_15810_train/G_15810_2022-01-24_04-46-43_109-511904_Fishing_engaged-in-fishing_9-2_1617.wav 0.838
 GardenCity_26981_train/G_26981_2022-06-24_08-01-01_555-223953_Tanker_underway-using-engine_11-1_14935.wav 0.0
-GardenCity_15811_test/G_15811_2022-01-22_16-27-16_152-076789_Cargo_constrained-by-her-draught_12-1_9605.wav 0.04
 Grafton_28434_train/G_28434_2022-08-26_18-50-27_246-843939_Cargo_underway-using-engine_7-1_5170.wav 0.483
 GardenCity_15811_train/G_15811_2022-01-30_10-19-06_247-933499_Tanker_underway-using-engine_12-9_4828.wav 0.517
 GardenCity_15811_train/G_15811_2022-02-19_03-55-35_269-287424_Tanker_underway-using-engine_8-7_2017.wav 0.798
@@ -15828,7 +15771,6 @@ GardenCity_15811_train/G_15811_2022-02-17_11-25-34_20-947668_Tanker_underway-usi
 Grafton_28434_train/G_28434_2022-08-30_10-13-59_90-406453_Tanker_underway-using-engine_10-0_3849.wav 0.615
 GardenCity_15811_train/G_15811_2022-01-20_04-56-57_159-972836_Tanker_underway-using-engine_12-3_5241.wav 0.476
 GardenCity_15811_train/G_15811_2022-04-22_18-14-39_206-778097_Cargo_underway-using-engine_11-1_4854.wav 0.515
-GardenCity_15811_train/G_15811_2022-02-23_01-01-43_115-837452_Military_underway-using-engine_24-8_5095.wav 0.49
 GardenCity_15811_train/G_15811_2022-02-15_00-05-28_80-816841_Fishing_engaged-in-fishing_5-7_1383.wav 0.862
 Grafton_15810_train/G_15810_2022-04-30_00-51-30_463-113627_Dredging_restricted-maneuverability_3-7_2398.wav 0.76
 Grafton_28434_train/G_28434_2022-09-07_12-37-10_179-409162_High-Speed-Craft_underway-using-engine_19-5_4129.wav 0.587
@@ -16032,7 +15974,6 @@ Grafton_15810_train/G_15810_2022-01-24_23-31-41_295-805703_Tanker_underway-using
 Grafton_15810_train/G_15810_2022-04-02_00-10-35_497-40556_Tanker_underway-using-engine_4-0_3714.wav 0.629
 GardenCity_15811_train/G_15811_2022-02-05_16-42-36_97-073558_Cargo_underway-using-engine_12-4_1765.wav 0.824
 GardenCity_15811_train/G_15811_2022-02-09_08-47-03_53-120537_Fishing_engaged-in-fishing_3-1_10115.wav 0.0
-GardenCity_15811_train/G_15811_2022-03-21_05-58-18_160-5879_Fishing_engaged-in-fishing_102-3_7170.wav 0.283
 GardenCity_15811_train/G_15811_2022-05-14_03-35-08_68-274934_Cargo_underway-using-engine_10-2_8540.wav 0.146
 GardenCity_15811_train/G_15811_2022-05-08_18-55-44_295-718401_Cargo_underway-using-engine_10-4_5563.wav 0.444
 GardenCity_15811_train/G_15811_2022-02-27_00-56-36_252-104621_Cargo_underway-using-engine_10-3_4785.wav 0.521
@@ -16465,7 +16406,6 @@ GardenCity_15811_train/G_15811_2022-02-15_02-44-00_56-127932_Fishing_underway-sa
 Grafton_15810_train/G_15810_2022-02-05_12-06-28_314-649019_Passenger_underway-using-engine_10-5_5344.wav 0.466
 GardenCity_15811_train/G_15811_2022-05-14_08-41-56_201-902701_Fishing_underway-using-engine_10-7_13646.wav 0.0
 GardenCity_15811_train/G_15811_2022-03-15_07-45-41_157-502557_Cargo_underway-using-engine_9-0_7318.wav 0.268
-Grafton_15810_train/G_15810_2022-01-24_11-35-48_12-175033_Military_underway-using-engine_19-1_3180.wav 0.682
 GardenCity_15811_train/G_15811_2022-05-14_20-32-43_213-255261_Tanker_constrained-by-her-draught_11-6_8309.wav 0.169
 GardenCity_15811_train/G_15811_2022-02-19_12-57-37_153-793459_Cargo_underway-using-engine_12-3_7949.wav 0.205
 Grafton_28434_train/G_28434_2022-08-26_12-37-09_111-564419_Tanker_underway-using-engine_10-1_4123.wav 0.588
@@ -16603,7 +16543,6 @@ GardenCity_15811_train/G_15811_2022-03-03_10-24-12_291-515624_Fishing_underway-u
 GardenCity_15811_train/G_15811_2022-03-29_20-42-56_25-839021_Other_underway-using-engine_14-9_6656.wav 0.334
 GardenCity_15811_train/G_15811_2022-05-08_20-17-32_42-887402_Tanker_underway-using-engine_12-2_4172.wav 0.583
 Grafton_15810_train/G_15810_2022-04-08_00-41-16_73-052107_Cargo_underway-using-engine_15-4_2504.wav 0.75
-Grafton_15810_val/G_15810_2022-02-11_08-11-15_2-555002_Cargo_constrained-by-her-draught_15-5_4741.wav 0.526
 GardenCity_15811_train/G_15811_2022-03-05_15-41-15_44-617211_Cargo_underway-using-engine_11-7_2587.wav 0.741
 Grafton_15810_train/G_15810_2022-03-21_05-07-10_587-832782_Fishing_engaged-in-fishing_9-2_2439.wav 0.756
 Grafton_15810_train/G_15810_2022-03-07_17-33-43_477-039453_Other_underway-using-engine_13-6_4464.wav 0.554
@@ -17021,7 +16960,6 @@ Grafton_15810_train/G_15810_2022-01-26_05-48-05_319-689763_Cargo_underway-using-
 Grafton_15810_train/G_15810_2022-05-08_16-52-50_524-538142_Tanker_underway-using-engine_15-0_3424.wav 0.658
 Grafton_15810_train/G_15810_2022-02-09_23-11-14_435-772127_Dredging_underway-using-engine_10-4_2175.wav 0.782
 GardenCity_26981_train/G_26981_2022-06-24_21-18-43_372-263249_Cargo_underway-using-engine_10-4_4977.wav 0.502
-Grafton_15810_val/G_15810_2022-02-11_13-28-18_409-160195_Tanker_constrained-by-her-draught_12-3_2375.wav 0.762
 Grafton_15810_train/G_15810_2022-02-27_23-41-55_32-212919_Cargo_underway-using-engine_9-5_4801.wav 0.52
 GardenCity_15811_train/G_15811_2022-03-07_01-32-24_179-476907_Cargo_underway-using-engine_17-6_6805.wav 0.32
 GardenCity_15811_train/G_15811_2022-02-05_12-26-56_226-179948_Cargo_underway-using-engine_7-0_11131.wav 0.0
@@ -17100,7 +17038,6 @@ GardenCity_15811_train/G_15811_2022-02-07_21-28-58_32-977223_Fishing_underway-us
 GardenCity_15811_train/G_15811_2022-02-17_12-37-10_305-759058_Tanker_underway-using-engine_16-4_4253.wav 0.575
 Grafton_28434_train/G_28434_2022-09-11_16-32-23_107-611029_Tug_underway-using-engine_9-3_5667.wav 0.433
 Grafton_15810_train/G_15810_2022-05-04_01-01-43_207-228041_Sailing_underway-using-engine_6-4_6286.wav 0.371
-Grafton_15810_val/G_15810_2022-04-06_18-55-33_598-505217_Cargo_constrained-by-her-draught_8-9_1711.wav 0.829
 Grafton_15810_train/G_15810_2022-02-21_21-28-58_373-507596_Cargo_underway-using-engine_9-6_2013.wav 0.799
 Grafton_15810_train/G_15810_2022-04-12_17-54-12_533-515743_Fishing_engaged-in-fishing_2-9_3376.wav 0.662
 GardenCity_26981_train/G_26981_2022-06-26_06-08-31_234-929043_Cargo_underway-using-engine_15-4_4779.wav 0.522
@@ -17338,7 +17275,6 @@ Grafton_15810_train/G_15810_2022-01-30_09-22-51_58-129839_Cargo_underway-using-e
 GardenCity_15811_train/G_15811_2022-03-03_20-48-05_291-690398_Cargo_underway-using-engine_9-8_4069.wav 0.593
 Grafton_15810_train/G_15810_2022-04-22_09-43-18_321-257679_Other_underway-using-engine_9-7_1709.wav 0.829
 GardenCity_15811_train/G_15811_2022-04-30_12-32-03_38-222633_Cargo_underway-using-engine_10-0_4273.wav 0.573
-Grafton_29187_train/G_29187_2022-11-03_12-47-22_405-724714_Military_underway-using-engine_15-2_2964.wav 0.704
 GardenCity_15811_train/G_15811_2022-02-09_16-42-36_62-95141_Tanker_underway-using-engine_13-1_3361.wav 0.664
 Grafton_15810_train/G_15810_2022-03-19_00-00-19_21-850983_Cargo_underway-using-engine_10-8_3935.wav 0.607
 Grafton_28434_train/G_28434_2022-09-03_06-23-53_17-657309_Cargo_underway-using-engine_14-4_4402.wav 0.56
@@ -17682,7 +17618,6 @@ Grafton_15810_train/G_15810_2022-03-23_23-31-41_179-438317_Fishing_underway-sail
 Grafton_15810_train/G_15810_2022-02-13_01-11-57_342-840328_Tanker_underway-using-engine_11-0_4131.wav 0.587
 Grafton_15810_train/G_15810_2022-02-25_09-33-04_215-11652_Cargo_underway-using-engine_10-7_4965.wav 0.503
 Grafton_28434_train/G_28434_2022-09-05_00-00-19_120-860792_Cargo_underway-using-engine_14-3_4231.wav 0.577
-Grafton_29187_train/G_29187_2022-11-03_12-57-36_406-103545_Military_underway-using-engine_8-5_3010.wav 0.699
 GardenCity_15811_train/G_15811_2022-03-27_20-17-22_91-280192_Tanker_moored_14-2_3472.wav 0.653
 Grafton_15810_train/G_15810_2022-04-20_11-25-34_321-334924_Other_underway-using-engine_9-3_924.wav 0.908
 Grafton_28434_train/G_28434_2022-09-09_07-40-35_243-911509_Tanker_underway-using-engine_10-7_5405.wav 0.46
@@ -17798,7 +17733,6 @@ GardenCity_15811_train/G_15811_2022-02-23_15-10-34_262-324573_Cargo_underway-usi
 Grafton_29187_train/G_29187_2022-11-01_15-41-14_578-816614_Cargo_underway-using-engine_6-6_4667.wav 0.533
 Grafton_15810_train/G_15810_2022-03-25_13-58-58_59-585951_Dredging_restricted-maneuverability_13-0_2863.wav 0.714
 Grafton_15810_train/G_15810_2022-04-22_05-17-24_394-649391_Cargo_moored_15-5_2909.wav 0.709
-Grafton_15810_val/G_15810_2022-02-03_22-09-54_178-867558_Tanker_constrained-by-her-draught_14-6_2192.wav 0.781
 Grafton_15810_train/G_15810_2022-03-11_05-27-38_221-415135_Cargo_underway-using-engine_16-4_2166.wav 0.783
 Grafton_15810_train/G_15810_2022-03-01_06-49-27_244-624927_Cargo_underway-using-engine_19-7_4296.wav 0.57
 Grafton_15810_train/G_15810_2022-03-23_16-42-36_253-51607_Cargo_underway-using-engine_17-2_1938.wav 0.806
@@ -17863,7 +17797,6 @@ GardenCity_15811_train/G_15811_2022-01-30_14-45-00_77-931524_Cargo_underway-usin
 Grafton_28434_train/G_28434_2022-08-30_13-48-45_95-79217_High-Speed-Craft_underway-using-engine_23-7_354.wav 0.965
 Grafton_15810_train/G_15810_2022-04-02_17-23-31_518-030256_Cargo_underway-using-engine_14-9_1651.wav 0.835
 Grafton_15810_train/G_15810_2022-03-31_00-41-16_14-242247_Dredging_underway-using-engine_5-6_1203.wav 0.88
-GardenCity_15811_test/G_15811_2022-05-04_21-34-04_65-505024_Cargo_constrained-by-her-draught_8-5_6900.wav 0.31
 GardenCity_15811_train/G_15811_2022-05-12_13-33-24_136-953374_Cargo_underway-using-engine_16-7_10361.wav 0.0
 Grafton_15810_train/G_15810_2022-01-30_16-32-23_267-262551_Cargo_underway-using-engine_15-9_2295.wav 0.77
 Grafton_15810_train/G_15810_2022-04-12_19-16-01_130-713508_Fishing_engaged-in-fishing_4-9_965.wav 0.903
@@ -18434,7 +18367,6 @@ Grafton_15810_train/G_15810_2022-04-12_15-41-15_588-547673_Tanker_underway-using
 Grafton_15810_train/G_15810_2022-01-20_09-12-36_126-232483_Tanker_underway-using-engine_11-4_4119.wav 0.588
 Grafton_15810_train/G_15810_2022-01-24_21-28-58_379-713046_Cargo_underway-using-engine_12-1_5074.wav 0.493
 GardenCity_15811_train/G_15811_2022-01-30_15-00-20_278-147729_Tanker_underway-using-engine_12-2_7608.wav 0.239
-Grafton_15810_val/G_15810_2022-02-11_08-21-29_245-277097_Cargo_constrained-by-her-draught_12-0_1865.wav 0.814
 Grafton_15810_train/G_15810_2022-03-27_14-29-39_422-032289_Other_moored_23-4_3384.wav 0.662
 Grafton_28434_train/G_28434_2022-08-30_16-47-43_98-479881_Tanker_underway-using-engine_10-5_3271.wav 0.673
 GardenCity_15811_train/G_15811_2022-02-19_09-33-04_59-032264_Cargo_underway-using-engine_10-2_4691.wav 0.531
@@ -18910,7 +18842,6 @@ Grafton_15810_train/G_15810_2022-01-20_12-26-55_527-691929_Cargo_underway-using-
 GardenCity_15811_train/G_15811_2022-02-01_00-41-16_46-248563_Cargo_underway-using-engine_19-0_4889.wav 0.511
 Grafton_15810_train/G_15810_2022-02-01_15-31-01_466-279528_Other_underway-using-engine_15-5_2083.wav 0.792
 Grafton_15810_train/G_15810_2022-03-05_16-22-09_114-576901_High-Speed-Craft_underway-using-engine_25-7_1761.wav 0.824
-Grafton_15810_test/G_15810_2022-01-22_23-41-54_19-135863_Tanker_constrained-by-her-draught_13-4_2858.wav 0.714
 Grafton_15810_train/G_15810_2022-03-19_05-27-38_359-788733_Cargo_underway-using-engine_14-1_4313.wav 0.569
 GardenCity_15811_train/G_15811_2022-05-18_21-13-37_245-408525_Other_at-anchor_0-1_4714.wav 0.529
 Grafton_15810_train/G_15810_2022-02-21_04-05-49_204-267896_Tanker_underway-using-engine_0-9_6834.wav 0.317
@@ -19037,7 +18968,6 @@ Grafton_15810_train/G_15810_2022-03-29_16-32-23_197-300399_Fishing_underway-sail
 GardenCity_15811_train/G_15811_2022-05-02_16-27-16_177-780674_Cargo_underway-using-engine_14-0_8856.wav 0.114
 Grafton_15810_train/G_15810_2022-02-09_14-19-26_51-616851_Cargo_at-anchor_13-7_1894.wav 0.811
 Grafton_15810_train/G_15810_2022-04-02_16-32-23_184-067497_Cargo_underway-using-engine_10-3_3442.wav 0.656
-Grafton_28434_train/G_28434_2022-08-30_21-59-39_204-152559_Military_restricted-maneuverability_0-3_4748.wav 0.525
 GardenCity_15811_train/G_15811_2022-01-28_06-49-26_81-542963_Cargo_underway-using-engine_16-9_6599.wav 0.34
 GardenCity_15811_train/G_15811_2022-03-09_18-55-33_294-402279_Cargo_underway-using-engine_11-0_4136.wav 0.586
 GardenCity_26981_train/G_26981_2022-06-26_09-22-50_26-401199_Cargo_underway-using-engine_4-6_5876.wav 0.412
@@ -19601,7 +19531,6 @@ Grafton_15810_train/G_15810_2022-03-29_00-31-03_496-246219_Fishing_engaged-in-fi
 Grafton_29187_train/G_29187_2022-10-28_16-11-56_445-377456_Cargo_underway-using-engine_8-9_4067.wav 0.593
 Grafton_15810_train/G_15810_2022-03-09_15-20-47_145-425683_Cargo_underway-using-engine_13-0_3610.wav 0.639
 GardenCity_15811_train/G_15811_2022-04-20_01-57-59_115-317453_Tanker_underway-using-engine_13-4_3649.wav 0.635
-Grafton_15810_val/G_15810_2022-04-06_18-45-20_511-542892_Cargo_constrained-by-her-draught_9-4_2952.wav 0.705
 Grafton_15810_train/G_15810_2022-03-11_09-43-18_266-448115_Other_restricted-maneuverability_6-9_6809.wav 0.319
 Grafton_29187_train/G_29187_2022-11-05_07-09-53_287-101022_Tanker_underway-using-engine_11-4_4821.wav 0.518
 Grafton_29187_train/G_29187_2022-11-03_22-50-46_530-067106_Cargo_underway-using-engine_12-6_4295.wav 0.571
@@ -19917,7 +19846,6 @@ Grafton_15810_train/G_15810_2022-02-09_11-46-01_153-252748_Cargo_underway-using-
 Grafton_15810_train/G_15810_2022-02-01_15-51-28_494-168402_Cargo_underway-using-engine_11-6_4507.wav 0.549
 Grafton_15810_train/G_15810_2022-04-04_12-06-29_339-250922_Cargo_underway-using-engine_9-8_5399.wav 0.46
 GardenCity_15811_train/G_15811_2022-02-01_18-40-13_106-683432_Cargo_underway-using-engine_10-7_5186.wav 0.481
-Grafton_15810_train/G_15810_2022-03-09_12-57-37_406-320117_Military_underway-using-engine_10-3_1028.wav 0.897
 GardenCity_15811_train/G_15811_2022-05-12_12-57-37_179-816505_Cargo_underway-using-engine_10-7_1585.wav 0.842
 GardenCity_15811_train/G_15811_2022-03-21_15-56-35_208-92616_Cargo_underway-using-engine_10-5_3064.wav 0.694
 Grafton_15810_train/G_15810_2022-03-13_08-21-29_373-390986_Cargo_at-anchor_0-0_6310.wav 0.369
@@ -20003,7 +19931,6 @@ GardenCity_15811_train/G_15811_2022-02-23_12-37-09_40-176738_Cargo_underway-usin
 Grafton_15810_train/G_15810_2022-05-04_01-52-51_32-511925_Cargo_underway-using-engine_9-6_5023.wav 0.498
 GardenCity_15811_train/G_15811_2022-02-13_20-02-02_179-783685_Tanker_underway-using-engine_11-2_7033.wav 0.297
 GardenCity_15811_train/G_15811_2022-04-30_16-17-02_102-811279_Cargo_underway-using-engine_11-2_4165.wav 0.584
-Grafton_15810_train/G_15810_2022-03-09_12-57-37_530-128098_Military_underway-using-engine_6-1_953.wav 0.905
 GardenCity_15811_train/G_15811_2022-05-12_17-28-38_39-239388_Tanker_underway-using-engine_13-7_6092.wav 0.391
 Grafton_28434_train/G_28434_2022-09-09_19-10-54_244-455818_Pilot_underway-using-engine_8-0_6043.wav 0.396
 GardenCity_15811_train/G_15811_2022-03-29_09-33-04_113-387623_Cargo_underway-using-engine_11-8_7114.wav 0.289
@@ -20037,7 +19964,6 @@ GardenCity_15811_train/G_15811_2022-03-03_13-33-24_145-414062_Fishing_underway-u
 Grafton_15810_train/G_15810_2022-05-06_11-46-01_448-85244_Cargo_underway-using-engine_15-6_1642.wav 0.836
 Grafton_15810_train/G_15810_2022-03-27_13-07-50_268-898135_Cargo_underway-using-engine_9-1_3342.wav 0.666
 GardenCity_15811_train/G_15811_2022-04-22_04-00-42_295-475459_Cargo_underway-using-engine_12-6_4305.wav 0.57
-Grafton_15810_val/G_15810_2022-02-11_13-38-31_136-726085_Tanker_constrained-by-her-draught_11-8_2091.wav 0.791
 Grafton_15810_train/G_15810_2022-03-11_14-29-39_399-548741_Cargo_underway-using-engine_12-8_3969.wav 0.603
 GardenCity_15811_train/G_15811_2022-05-16_09-29-52_102-428147_Cargo_underway-using-engine_9-7_1380.wav 0.862
 GardenCity_15811_train/G_15811_2022-03-05_06-08-32_255-709391_Tanker_underway-using-engine_10-9_3314.wav 0.669
@@ -20548,7 +20474,6 @@ GardenCity_15811_train/G_15811_2022-03-11_19-00-40_9-418646_Cargo_underway-using
 GardenCity_15811_train/G_15811_2022-02-21_17-23-31_246-655103_Cargo_underway-using-engine_10-2_6909.wav 0.309
 Grafton_15810_train/G_15810_2022-04-04_12-37-09_169-399309_Cargo_underway-using-engine_1-9_6112.wav 0.389
 GardenCity_15811_train/G_15811_2022-02-21_09-53-32_52-376744_Tanker_underway-using-engine_11-9_3211.wav 0.679
-Grafton_28434_train/G_28434_2022-08-30_22-04-45_297-220478_Military_restricted-maneuverability_0-4_4746.wav 0.525
 GardenCity_15811_train/G_15811_2022-05-12_04-16-02_25-754384_Tanker_underway-using-engine_9-0_5914.wav 0.409
 Grafton_28434_train/G_28434_2022-09-11_11-51-08_130-352756_Cargo_underway-using-engine_11-8_1476.wav 0.852
 GardenCity_15811_train/G_15811_2022-05-06_04-10-55_13-173327_Tanker_underway-using-engine_12-8_5008.wav 0.499
@@ -20795,7 +20720,6 @@ GardenCity_15811_train/G_15811_2022-02-15_08-47-03_2-885779_Fishing_undefined-=-
 GardenCity_15811_train/G_15811_2022-04-20_16-27-16_280-745246_Tanker_underway-using-engine_15-0_2949.wav 0.705
 Grafton_15810_train/G_15810_2022-03-19_12-16-42_470-279555_Tanker_underway-using-engine_12-6_1808.wav 0.819
 Grafton_15810_train/G_15810_2022-05-02_07-50-48_223-796684_Fishing_underway-using-engine_10-2_1905.wav 0.809
-GardenCity_15811_test/G_15811_2022-05-04_21-44-18_172-119877_Cargo_constrained-by-her-draught_8-5_4395.wav 0.56
 Grafton_28434_train/G_28434_2022-08-22_14-29-39_216-669977_Other_restricted-maneuverability_0-0_595.wav 0.941
 Grafton_15810_train/G_15810_2022-03-05_01-52-52_475-144301_Cargo_underway-using-engine_11-5_4737.wav 0.526
 Grafton_15810_train/G_15810_2022-03-13_15-31-01_138-967578_Tanker_underway-using-engine_10-4_5035.wav 0.496
@@ -20817,7 +20741,6 @@ GardenCity_15811_train/G_15811_2022-02-27_09-53-31_281-763517_Cargo_underway-usi
 GardenCity_15811_train/G_15811_2022-03-21_16-22-09_106-426766_Cargo_constrained-by-her-draught_13-1_5486.wav 0.451
 GardenCity_15811_train/G_15811_2022-02-09_01-47-45_167-472981_Fishing_underway-using-engine_5-0_8019.wav 0.198
 Grafton_15810_train/G_15810_2022-02-25_16-32-23_127-229428_Cargo_underway-using-engine_10-0_5953.wav 0.405
-GardenCity_15811_test/G_15811_2022-05-04_21-49-25_253-832187_Cargo_constrained-by-her-draught_8-5_3494.wav 0.651
 Grafton_15810_train/G_15810_2022-03-09_19-16-01_533-056772_Dredging_restricted-maneuverability_12-6_1987.wav 0.801
 GardenCity_15811_train/G_15811_2022-05-12_04-00-42_254-233656_Tanker_underway-using-engine_9-1_8780.wav 0.122
 Grafton_15810_train/G_15810_2022-02-17_23-21-28_148-792733_Tanker_underway-using-engine_12-8_5383.wav 0.462
@@ -21749,7 +21672,6 @@ Grafton_29187_train/G_29187_2022-11-03_19-56-54_491-423964_Fishing_engaged-in-fi
 Grafton_15810_train/G_15810_2022-03-27_18-14-39_193-978194_Tanker_underway-using-engine_8-6_3613.wav 0.639
 GardenCity_15811_train/G_15811_2022-02-23_14-55-13_250-023473_Cargo_underway-using-engine_10-9_5596.wav 0.44
 Grafton_28434_train/G_28434_2022-08-24_21-28-58_163-028651_Fishing_engaged-in-fishing_2-7_8057.wav 0.194
-Grafton_15810_val/G_15810_2022-02-11_13-48-45_12-563923_Tanker_constrained-by-her-draught_12-3_3565.wav 0.643
 Grafton_15810_train/G_15810_2022-05-08_13-38-31_90-179632_Dredging_restricted-maneuverability_12-0_1289.wav 0.871
 Grafton_28434_train/G_28434_2022-09-09_22-09-52_26-188057_Pilot_underway-using-engine_6-2_6132.wav 0.387
 Grafton_29187_train/G_29187_2022-11-03_04-56-56_332-772894_Fishing_underway-using-engine_9-7_801.wav 0.92
@@ -21786,7 +21708,6 @@ GardenCity_15811_train/G_15811_2022-05-08_02-59-20_54-444668_Cargo_underway-usin
 GardenCity_15811_train/G_15811_2022-02-09_19-31-23_273-179111_Fishing_underway-using-engine_5-6_6435.wav 0.356
 GardenCity_26981_train/G_26981_2022-06-26_15-41-14_446-222657_Tanker_underway-using-engine_12-3_6840.wav 0.316
 GardenCity_15811_train/G_15811_2022-03-05_15-31-01_258-851994_Cargo_underway-using-engine_11-7_4185.wav 0.582
-Grafton_29187_train/G_29187_2022-11-03_12-47-22_611-426076_Military_underway-using-engine_14-8_2602.wav 0.74
 GardenCity_15811_train/G_15811_2022-02-05_17-28-38_201-187458_Tanker_underway-using-engine_13-6_3805.wav 0.62
 GardenCity_15811_train/G_15811_2022-03-09_01-47-45_73-697714_Tanker_underway-using-engine_13-8_8141.wav 0.186
 Grafton_15810_train/G_15810_2022-02-25_20-58-17_213-289945_Cargo_underway-using-engine_11-2_4587.wav 0.541
@@ -21875,7 +21796,6 @@ GardenCity_15811_train/G_15811_2022-05-02_22-20-06_275-231242_Cargo_underway-usi
 GardenCity_15811_train/G_15811_2022-04-28_10-03-45_78-654861_Tanker_underway-using-engine_13-5_4428.wav 0.557
 Grafton_15810_train/G_15810_2022-03-05_15-10-34_570-687144_Tanker_underway-using-engine_10-8_3645.wav 0.635
 Grafton_28434_train/G_28434_2022-09-01_15-51-28_211-573485_Pilot_underway-using-engine_0-9_6502.wav 0.35
-Grafton_15810_test/G_15810_2022-01-22_17-43-57_229-879895_Tanker_constrained-by-her-draught_13-2_6755.wav 0.325
 GardenCity_15811_train/G_15811_2022-01-24_22-09-52_210-519942_Cargo_underway-using-engine_7-5_2454.wav 0.755
 Grafton_15810_train/G_15810_2022-05-04_23-41-55_403-865701_Pilot_underway-using-engine_17-6_4530.wav 0.547
 GardenCity_15811_train/G_15811_2022-03-01_00-00-19_42-004317_Tanker_underway-using-engine_15-2_3778.wav 0.622

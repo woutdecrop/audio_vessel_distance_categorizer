@@ -49,8 +49,6 @@ def get_search_space():
         "L2": tune.choice([True, False])
     }
 
-
-
 # Define the number of trials and search method
 num_samples = 10000 # Number of trials to run in parallel
 print("Number iterations", num_samples)

@@ -61,9 +61,9 @@ class CLAP_Vessel_Distance:
         self.model_path='davidrrobinson/BioLingual'
         dirs='/srv/CLAP/embeds'
         self.embeddings_path=dirs
-        # dirs='/storage/CLAP_paper/embeddings'
-        # if self.freeze_clap: 
-        #     self.embeddings_path=dirs + '_clap_test'
+        dirs='/storage/CLAP_paper/embeddings'
+        if self.freeze_clap: 
+            self.embeddings_path=dirs + '_clap_test'
         # else: 
         #     self.embeddings_path=dirs+ '_spectrogram_test'
         # self.model_path='/srv/CLAP/3_1_Results/2024-11-07_12-19_1_0_0_0_-3.0_0.4/model'

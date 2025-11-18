@@ -42,11 +42,36 @@ The dataset was processed to predict the distance to the nearest vessel using AI
 
 A balance was maintained between resolution and accuracy. The smaller window provides more frequent annotations but risks missing vessels due to AIS gaps. The larger window reduces the risk of missing vessels but lowers temporal resolution.
 
-After processing, 26,465 10-second audio segments were extracted over 116 days, including:
+After processing, 27.524 10-second audio segments were extracted over 116 days, including:
 - 40 days with overlapping station recordings.
 - 76 unique days per station.
 
 Audio files were converted to single-channel, 48 kHz, and segmented into 10-second non-overlapping windows.
+Audio Preprocessing and File Naming
+
+
+Each resulting audio segment was saved using the following filename format:
+
+{output_prefix}/{station_letter}_{deployment_id}_{datetime_str}_{start_delta}_{vessels_information}_{output_postfix}.wav
+
+Filename Components:
+
+- output_prefix: Directory where the output file is stored.
+- station_letter: First letter of the station name (always 'g' in this case).
+- deployment_id: Identifier of the specific deployment session.
+- datetime_str: Timestamp indicating the start time of the segment.
+- start_delta: Offset (in seconds) from the beginning of the original audio file, used to trace back the segment's location within the full recording.
+- vessels_information: Metadata about vessels present during the segment, including:
+  - Vessel type
+  - AIS message type description
+  - Speed Over Ground (SOG)
+- output_postfix: Optional suffix for additional labeling or processing context.
+
+Example filename:
+Grafton_15810_train/G_15810_2022-01-20_09-43-17_307-521805_Cargo_underway-using-engine_16-1_3475.wav
+
+This naming structure ensures traceability of each audio segment and includes relevant vessel context for downstream analysis.
+
 
 ## Data Splitting
 

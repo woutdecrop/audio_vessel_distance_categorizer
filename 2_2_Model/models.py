@@ -48,9 +48,6 @@ class CLAPClassifier(nn.Module):
             wav_filename = os.path.basename(wav_path)
             embedding_filename = os.path.splitext(wav_filename)[0] + '.pt'
             embedding_path = os.path.join(self.embedding_dir, desc, embedding_filename)
-            
-           
-            
             # Check if the embedding is already computed and saved
             if os.path.exists(embedding_path):
                 # Load the saved embedding
