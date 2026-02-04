@@ -33,9 +33,16 @@ AIS-annotated Hydrophone Recordings for Vessel Classification: https://doi.org/1
 ---
 
 ## Overview
-
 ### Data Preparation
-To prepare the data for distance classification, audio recordings were segmented into 10-second, non-overlapping windows. Each segment was categorized based on its proximity to the nearest vessel. The distance categories were divided into 1 km bins:
+To prepare the data for distance classification, underwater audio recordings were segmented into 10-second, non-overlapping windows.  
+Each segment was annotated using AIS-derived vessel information and categorized based on its proximity to the nearest vessel.
+
+The full data preparation and annotation pipeline — including AIS processing, distance calculation, closest-vessel detection, and audio snippet extraction — is implemented in the following repository:
+
+🔗 **Vessel Acoustic Recording Annotator**  
+https://github.com/woutdecrop/Vessel_Acoustic_Recording_Annotator
+
+Distance categories were defined using 1 km bins based on the computed distance between the hydrophone and the closest vessel.
 
 ### Model Approaches
 The project leverages the **Contrastive Language-Audio Pretraining (CLAP-LAION)** model, which is built upon the original CLAP architecture. The pre-trained CLAP-LAION model named **Biolingual**, partly trained on underwater bioacoustic data, was used for transfer learning following two approaches:
