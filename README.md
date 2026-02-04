@@ -32,6 +32,66 @@ AIS-annotated Hydrophone Recordings for Vessel Classification: https://doi.org/1
 
 ---
 
+## Overview
+
+### Data Preparation
+To prepare the data for distance classification, audio recordings were segmented into 10-second, non-overlapping windows. Each segment was categorized based on its proximity to the nearest vessel. The distance categories were divided into 1 km bins:
+
+### Model Approaches
+The project leverages the **Contrastive Language-Audio Pretraining (CLAP-LAION)** model, which is built upon the original CLAP architecture. The pre-trained CLAP-LAION model named **Biolingual**, partly trained on underwater bioacoustic data, was used for transfer learning following two approaches:
+
+1. **Feature Extraction**  
+   - High-level features were extracted from Log-Mel spectrograms using the pre-trained layers.  
+   - Extracted features were passed through three custom layers for classification.  
+   - Computationally efficient, requiring adjustment only to the final layers.
+
+2. **Fine-Tuning**  
+   - Pre-trained weights were used for initialization, but the entire model was retrained.  
+   - Followed by a single linear layer for distance classification.  
+   - Expected to achieve slightly better performance due to retraining all layers but is significantly more computationally demanding.  
+
+This trade-off between computational efficiency and performance is important when selecting the approach. Feature extraction allows fast adaptation with limited resources, while fine-tuning can maximize predictive accuracy at higher computational cost.
+
+![Workflow](overview_mixed.jpg)  <!-- Replace with your actual image path -->
+
+
+### Model weights
+
+The model weights can be found here https://zenodo.org/uploads/16753877 and are available upon request to my email: wout.decrop@vliz.be
+
+
+## Model Input & Output (I/O)
+
+The Audio Vessel Classifier can accept two types of input:
+
+1. **Raw 10-second audio files**  
+   - Users can upload a `.wav` file containing 10 seconds of underwater audio.  
+   - The model will process the audio, extract Log-Mel spectrograms, generate embeddings (if using the feature extraction approach), and predict the distance category.  
+
+2. **Pre-computed CLAP embeddings**  
+   - Users who already have embeddings extracted from the CLAP-LAION model can upload these directly.  
+   - This option skips the feature extraction step and allows faster inference for users with pre-processed data.
+
+### Input Format
+- **Audio file**: `.wav`, 10 seconds long, mono channel recommended.  
+- **Embedding**: 1D or 2D numpy array or tensor, matching the output dimensions of the pre-trained CLAP-LAION embedding layer.
+
+### Output Format
+The model outputs a **distance category** corresponding to the proximity of the nearest vessel:
+- 0-1 km
+- 1-2 km
+- 2-3 km
+- 3-4 km
+- 4-5 km
+- 5-6 km
+- 6-7 km
+- 7-8 km
+- 8-9 km
+- 9-10 km
+- 10+ km
+
+
+
 ## Model Training
 
 The core training function is `train_fn`, which is responsible for handling the training process and hyperparameter tuning.
@@ -104,7 +164,7 @@ The trained models are stored in `3_1_Results/`. You can visualize results using
 
 If you use this model, please cite:
 
-- Decrop Wout, Deneudt Klaas, Parcerisas Clea, Schall Elena, Debusschere Elisabeth, 2025. Transfer learning for distance classification of marine vessels using underwater sound. Submitted to IEEE.
+- W. Decrop, K. Deneudt, C. Parcerisas, E. Schall and E. Debusschere, "Transfer Learning for Distance Classification of Marine Vessels Using Underwater Sound," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 18, pp. 19710-19726, 2025, doi: 10.1109/JSTARS.2025.3593779. 
 
 ---
 
