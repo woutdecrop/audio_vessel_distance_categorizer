@@ -1,5 +1,5 @@
-# Vessel Distance Classification with CLAP
-
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18486404.svg)](https://doi.org/10.5281/zenodo.18486404)
+ # Vessel Distance Classification with CLAP
 ## Overview
 
 This repository contains the implementation of a convolutional neural network (CNN) model for vessel distance classification using underwater acoustic data. The model is based on the Contrastive Language-Audio Pretraining (CLAP) framework and is designed for transfer learning to predict the distance of vessels from hydrophones deployed in the Belgian part of the North Sea (BPNS).
